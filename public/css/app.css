@@ -7222,6 +7222,11 @@ blockquote {
         padding-top: 6em;
     }
 }
+@media screen and (min-width: 991px){
+    .medium-spaces {
+        display: none;
+    }
+}
 .hero3-image-wrapper {
     position: relative;
     width: 45%;

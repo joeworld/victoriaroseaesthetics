@@ -67,6 +67,17 @@
         <div class="nav-center">
             <a href="/" class="nav-logo w-nav-brand" aria-label="home"><img src="/img/1612832935019.svg" loading="lazy" alt="" /></a>
         </div>
+        <div class="nav-right medium-spaces">
+            <div class="search-bar-wrapper"></div>
+            <div class="w-commerce-commercecartwrapper">
+                <div style="display: none;" class="w-commerce-commercecartcontainerwrapper w-commerce-commercecartcontainerwrapper--cartType-rightSidebar">
+                    <div class="w-commerce-commercecartcontainer cart-container">
+                        <div class="w-commerce-commercecartheader">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div role="navigation" class="nav-right w-nav-menu">
             <div>
                 {{-- <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown">
