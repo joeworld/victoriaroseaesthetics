@@ -7,7 +7,7 @@
                 </div>
                 <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown">
                     <div class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-1" aria-controls="w-dropdown-list-1" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
-                        <div>PROCEDURES</div>
+                        <div>SERVICES</div>
                     </div>
                     <nav class="dropdown-list w-dropdown-list" id="w-dropdown-list-1" aria-labelledby="w-dropdown-toggle-1">
                         <div class="dropdown-link-wrapper" style="opacity: 0; transform: translate3d(0px, -16px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">

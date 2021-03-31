@@ -67,7 +67,7 @@
         {{-- procedures --}}
         <div class="section padding-bottom-3-5em">
             <div class="container">
-                <div class="heading-wrapper centered"><h2>Procedures</h2></div>
+                <div class="heading-wrapper centered"><h2></h2></div>
             </div>
             <div class="container no-padding-mobile">
                 <div class="text-align-right mobile-only"><img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fb18d29dc8bbe0e65d12a52_swipe.svg" loading="lazy" alt="" width="90" /></div>
@@ -354,7 +354,7 @@
         @include('partials.products')
 
         {{-- blog --}}
-        <div class="section padding-bottom-3-5em">
+        {{-- <div class="section padding-bottom-3-5em">
             <div class="container">
                 <div class="heading-wrapper"><h2>Latest from our blog</h2></div>
             </div>
@@ -395,7 +395,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
 
         {{-- instagram --}}
         @include('partials.instagram')

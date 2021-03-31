@@ -14,7 +14,7 @@
                 <div class="w-dyn-list">
                     <div class="blog-list w-dyn-items" role="list">
                         <div role="listitem" class="financing-item w-dyn-item">
-                            <a class="blog-link-block w-inline-block">
+                            <a class="w-inline-block">
                                 <div class="blog-image-wrapper">
                                     <img loading="lazy" src="/img/financing-1.png" alt="" />
                                 </div>
@@ -31,7 +31,7 @@
                             </a>
                         </div>
                         <div role="listitem" class="financing-item w-dyn-item">
-                            <a class="blog-link-block w-inline-block">
+                            <a class="w-inline-block">
                                 <div class="blog-image-wrapper">
                                     <img loading="lazy" src="/img/financing-2.png" alt="" />
                                 </div>
