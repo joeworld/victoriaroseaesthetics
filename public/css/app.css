@@ -5217,6 +5217,7 @@ blockquote {
     margin-left: auto;
     padding-right: 5vw;
     padding-left: 5vw;
+    padding-bottom: 5vh;
     -webkit-box-pack: start;
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
@@ -9227,6 +9228,8 @@ blockquote {
 
     .heading-wrapper-centered {
         padding-bottom: 2.5em;
+        font-size: 0.7em;
+
     }
 
     .heading-wrapper-centered.padding-bottom-3-5em {
