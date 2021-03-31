@@ -1154,8 +1154,8 @@ textarea.w-input, textarea.w-select {
     position: relative;
     height: 300px;
     text-align: center;
-    background: #dddddd;
-    clear: both;
+    background: #fff;
+    clear: both;w
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     tap-highlight-color:rgba(0, 0, 0, 0)
 }
@@ -1861,7 +1861,7 @@ textarea.w-input, textarea.w-select {
     top: 100%;
     left: 0;
     right: 0;
-    background: #C8C8C8;
+    background: #fff;
     text-align: center;
     overflow: visible;
     min-width:200px
@@ -1879,7 +1879,8 @@ textarea.w-input, textarea.w-select {
     top: 100%;
     left: 0;
     right: 0;
-    width:100%
+    width:100%;
+
 }
 
 .w-nav-overlay [data-nav-menu-open] {
@@ -5287,6 +5288,7 @@ blockquote {
 
 .nav-logo {
     padding-left: 0px;
+    z-index: 9999;
 }
 
 .nav-link {
@@ -7215,6 +7217,11 @@ blockquote {
     align-items: center;
 }
 
+@media screen and (max-width: 991px){
+    .hero3-content-wrapper {
+        padding-top: 6em;
+    }
+}
 .hero3-image-wrapper {
     position: relative;
     width: 45%;
@@ -8666,9 +8673,9 @@ blockquote {
     }
 
     .dropdown-toggle {
-        padding: 0.5em 0.5em 0.5em 0.35em;
+        padding: 0.5em 0.5em 0.5em 0.5em;
         font-family: Butler, sans-serif;
-        font-size: 3.7em;
+        font-size: 2.3em;
     }
 
     .dropdown-toggle.first {
