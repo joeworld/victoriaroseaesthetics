@@ -3,9 +3,13 @@
         <div class="heading-wrapper centered"><h2>Products</h2></div>
     </div>
     <div class="container no-padding-mobile">
+
         <div
             data-w-id="427564db-ebd8-80f8-6943-f23298b3211d"
             class="horizontal-scroll-section">
+
+            @if(url()->current() != url('products/zo-skin-health'))
+
             <div class="horizontal-scroll-block">
                 <div class="horizontal-scroll-image">
                     <img
@@ -23,6 +27,11 @@
                     <h5>ZO Skin Health</h5>
                 </div>
             </div>
+
+            @endif;
+
+            @if(url()->current() != url('products/eyenvy'))
+
             <div class="horizontal-scroll-block">
                 <div class="horizontal-scroll-image">
                     <img
@@ -38,6 +47,11 @@
                 </div>
                 <div class="horizontal-scroll-content"><h5>EyEnvy</h5></div>
             </div>
+
+            @endif
+
+            @if(url()->current() != url('products/colorescience'))
+
             <div class="horizontal-scroll-block">
                 <div class="horizontal-scroll-image">
                     <img
@@ -53,6 +67,9 @@
                 </div>
                 <div class="horizontal-scroll-content"><h5>Colorescience</h5></div>
             </div>
+
+            @endif
+
         </div>
     </div>
     <div class="container">
