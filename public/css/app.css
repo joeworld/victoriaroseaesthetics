@@ -5695,8 +5695,8 @@ blockquote {
 }
 
 .subnavigation {
-    position: -webkit-sticky;
-    position: sticky;
+    position: -webkit-relative;
+    position: relative;
     top: 4.5em;
     z-index: 99;
     display: -webkit-box;

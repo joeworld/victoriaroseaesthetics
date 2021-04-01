@@ -13,11 +13,11 @@
             </div>
             <div class="subnavigation">
                 <div class="subnavigation-wrapper">
-                    <a href="/services/brows-lashes-all" class="subnavigation-link">All</a>
+                    <a href="/services/brows-lashes-all" class="subnavigation-link w--current">All</a>
                     <div class="w-dyn-list">
                         <div role="list" class="subnavigation-collection-list w-dyn-items">
                             <div role="listitem" class="w-dyn-item">
-                                <a href="/services/brows-lashes" aria-current="page" class="subnavigation-link w--current">Brow + Lashes</a>
+                                <a href="/services/brows-lashes" aria-current="page" class="subnavigation-link">Brow + Lashes</a>
                             </div>
                             <div role="listitem" class="w-dyn-item">
                                 <a href="/services/brows-lashes-comingsoon" class="subnavigation-link">Coming Soon</a>
@@ -46,6 +46,17 @@
                     <div class="big-title">LASH LIFT</div>
                     <br>
                     <p>The lash lift mimics the effect of an eyelash curler. It makes your lashes bend upwards, leaving them looking longer, and your eyes more open and bright</p>
+                </div>
+                <div class="padding-top-9em">
+                    <div class="big-title">BROW MICROBLADING / NANO TATTOOING * COMING SOON*</div>
+                    <br>
+                    <p>Nano Brow is a semi-permant tattoo technique designed for those who are eager to improve the look of their brows, but without having that penciled-on result that many alternatives can achieve. This treatment utilizes a special Nano Needle that draws on each individual hair so it emulates real eyebrow hair. This is what makes it look so natural.</p>
+                    <p>Microblading is a semi-permanent tattoo technique used to create the illusion of fuller brows and to improve the shape and symmetry.</p>
+                </div>
+                <div class="padding-top-9em">
+                    <div class="big-title">LASH EXENTION * COMING SOON*</div>
+                    <br>
+                    <p>A lash extension treatment involves applying individual synthetic lashes onto each natural eyelash to add extra length and volume. They're perfect for holidays, a big event or just perfect lashes every day.</p>
                 </div>
             </div>
 

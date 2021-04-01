@@ -15,25 +15,25 @@
                             <a class="dropdown-link w-dropdown-link drodown-title" tabindex="0">Beauty Bar</a>
                             <a class="dropdown-link w-dropdown-link drodown-title" tabindex="0">Wellness Bar</a>
 
-                            <a href="/procedures/botox-nuceiva" class="dropdown-link w-dropdown-link" tabindex="0">Botox/Nuceiva</a>
-                            <a href="/procedures/mani-pedi" class="dropdown-link w-dropdown-link" tabindex="0">Mani + Pedi</a>
-                            <a href="/procedures/womens-health'" class="dropdown-link w-dropdown-link" tabindex="0">Women's Health</a>
+                            <a href="/services/botox-nuceiva" class="dropdown-link w-dropdown-link" tabindex="0">Botox/Nuceiva</a>
+                            <a href="/services/mani-pedi" class="dropdown-link w-dropdown-link" tabindex="0">Mani + Pedi</a>
+                            <a href="/services/womens-health'" class="dropdown-link w-dropdown-link" tabindex="0">Women's Health</a>
 
-                            <a href="/procedures/dermal-fillers" class="dropdown-link w-dropdown-link" tabindex="0">Dermal Fillers</a>
-                            <a href="/procedures/facials" class="dropdown-link w-dropdown-link" tabindex="0">Facials</a>
-                            <a href="/procedures/iv-therapy" class="dropdown-link w-dropdown-link" tabindex="0">IV Therapy</a>
+                            <a href="/services/dermal-fillers" class="dropdown-link w-dropdown-link" tabindex="0">Dermal Fillers</a>
+                            <a href="/services/facials" class="dropdown-link w-dropdown-link" tabindex="0">Facials</a>
+                            <a href="/services/iv-therapy" class="dropdown-link w-dropdown-link" tabindex="0">IV Therapy</a>
 
-                            <a href="/procedures/prp" class="dropdown-link w-dropdown-link" tabindex="0">PRP</a>
-                            <a href="/procedures/brows-lashes" class="dropdown-link w-dropdown-link" tabindex="0">Brows + Lashes</a>
-                            <a href="/procedures/massage-therapy" class="dropdown-link w-dropdown-link" tabindex="0">Massage Therapy</a>
+                            <a href="/services/prp" class="dropdown-link w-dropdown-link" tabindex="0">PRP</a>
+                            <a href="/services/brows-lashes" class="dropdown-link w-dropdown-link" tabindex="0">Brows + Lashes</a>
+                            <a href="/services/massage-therapy" class="dropdown-link w-dropdown-link" tabindex="0">Massage Therapy</a>
 
-                            <a href="/procedures/lipolysis" class="dropdown-link w-dropdown-link" tabindex="0">Lipolysis</a>
+                            <a href="/services/lipolysis" class="dropdown-link w-dropdown-link" tabindex="0">Lipolysis</a>
                             <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
-                            <a href="/procedures/nathuropathic-medicines" class="dropdown-link w-dropdown-link" tabindex="0">Naturopathic Medicine</a>
+                            <a href="/services/nathuropathic-medicines" class="dropdown-link w-dropdown-link" tabindex="0">Naturopathic Medicine</a>
 
-                            <a href="/procedures/packages" class="dropdown-link w-dropdown-link" tabindex="0">Packages</a>
                             <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
-                            <a href="/procedures/sleep-apnea-snoring" class="dropdown-link w-dropdown-link" tabindex="0">Sleep Apnea + Snoring</a>
+                            <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
+                            <a href="/services/sleep-apnea-snoring" class="dropdown-link w-dropdown-link" tabindex="0">Sleep Apnea + Snoring</a>
                         </div>
                     </nav>
                 </div>

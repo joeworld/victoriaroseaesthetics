@@ -39,43 +39,49 @@ Route::get('/procedures', function () {
 
 // procedures
 
-Route::get('/procedures/botox-nuceiva', function () {
+Route::get('/services/botox-nuceiva', function () {
     return view('procedures/botox-nuceiva');
 });
-Route::get('/procedures/brows-lashes', function () {
+Route::get('/services/brows-lashes', function () {
     return view('procedures/brows-lashes');
 });
-Route::get('/procedures/dermal-fillers', function () {
+Route::get('/services/brows-lashes-comingsoon', function () {
+    return view('procedures/brows-lashes-comingsoon');
+});
+Route::get('/services/brows-lashes-all', function () {
+    return view('procedures/brows-lashes-all');
+});
+Route::get('/services/dermal-fillers', function () {
     return view('procedures/dermal-fillers');
 });
-Route::get('/procedures/facials', function () {
+Route::get('/services/facials', function () {
     return view('procedures/facials');
 });
-Route::get('/procedures/iv-therapy', function () {
+Route::get('/services/iv-therapy', function () {
     return view('procedures/iv-therapy');
 });
-Route::get('/procedures/lipolysis', function () {
+Route::get('/services/lipolysis', function () {
     return view('procedures/lipolysis');
 });
-Route::get('/procedures/mani-pedi', function () {
+Route::get('/services/mani-pedi', function () {
     return view('procedures/mani-pedi');
 });
-Route::get('/procedures/massage-therapy', function () {
+Route::get('/services/massage-therapy', function () {
     return view('procedures/massage-therapy');
 });
-Route::get('/procedures/nathuropathic-medicines', function () {
+Route::get('/services/nathuropathic-medicines', function () {
     return view('procedures/nathuropathic-medicine');
 });
-Route::get('/procedures/packages', function () {
+Route::get('/services/packages', function () {
     return view('procedures/packages');
 });
-Route::get('/procedures/prp', function () {
+Route::get('/services/prp', function () {
     return view('procedures/prp');
 });
-Route::get('/procedures/sleep-apnea-snoring', function () {
+Route::get('/services/sleep-apnea-snoring', function () {
     return view('procedures/sleep-apnea-snoring');
 });
-Route::get('/procedures/womens-health', function () {
+Route::get('/services/womens-health', function () {
     return view('procedures/womens-health');
 });
 
