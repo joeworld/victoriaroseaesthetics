@@ -17,7 +17,7 @@
 
                             <a href="/services/botox-nuceiva" class="dropdown-link w-dropdown-link" tabindex="0">Botox/Nuceiva</a>
                             <a href="/services/mani-pedi" class="dropdown-link w-dropdown-link" tabindex="0">Mani + Pedi</a>
-                            <a href="/services/womens-health'" class="dropdown-link w-dropdown-link" tabindex="0">Women's Health</a>
+                            <a href="/services/womens-health" class="dropdown-link w-dropdown-link" tabindex="0">Women's Health</a>
 
                             <a href="/services/dermal-fillers" class="dropdown-link w-dropdown-link" tabindex="0">Dermal Fillers</a>
                             <a href="/services/facials" class="dropdown-link w-dropdown-link" tabindex="0">Facials</a>
@@ -39,7 +39,7 @@
                 </div>
                 <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown">
                     <div class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-2" aria-controls="w-dropdown-list-2" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
-                        <div>Products</div>
+                        <div>SHOP</div>
                     </div>
                     <nav class="dropdown-list w-dropdown-list" id="w-dropdown-list-2" aria-labelledby="w-dropdown-toggle-2">
                         <div class="dropdown-link-wrapper" style="opacity: 0; transform: translate3d(0px, -16px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
