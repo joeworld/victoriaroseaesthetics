@@ -13,6 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/products', function () {
+    return view('product-page');
+});
+
+
 // main
 
 Route::get('/', function () {
@@ -94,4 +99,5 @@ Route::get('/products/envy-pillows', function () {
 Route::get('/products/teoxane-cosmeceuticals', function () {
     return view('products/teoxane-cosmeceuticals');
 });
+
 

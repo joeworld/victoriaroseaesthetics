@@ -7219,7 +7219,10 @@ blockquote {
 
 @media screen and (max-width: 991px){
     .hero3-content-wrapper {
-        padding-top: 6em;
+        padding-top: 10em;
+    }
+    .handwritten.large-home{
+        font-size: 3em !important;
     }
 }
 @media screen and (min-width: 991px){
@@ -7999,6 +8002,8 @@ blockquote {
     font-family: CollectionFree, sans-serif;
 }
 
+
+
 .search-bar-wrapper-mobile {
     display: none;
     -webkit-box-pack: end;
@@ -8447,6 +8452,7 @@ blockquote {
     .navigation-wrapper {
         height: 3.75em;
         padding-right: 1.5em;
+        padding-top: 3em;
         padding-left: 1.5em;
         -webkit-box-pack: start;
         -webkit-justify-content: flex-start;
