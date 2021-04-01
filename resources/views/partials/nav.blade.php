@@ -11,7 +11,7 @@
                     </div>
                     <nav class="dropdown-list w-dropdown-list" id="w-dropdown-list-1" aria-labelledby="w-dropdown-toggle-1">
                         <div class="dropdown-link-wrapper" style="opacity: 0; transform: translate3d(0px, -16px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-                            <a class="dropdown-link w-dropdown-link drodown-title" tabindex="0">Medical Aesthetics Bar</a>
+                            <a class="dropdown-link w-dropdown-link drodown-title" tabindex="0">Injectables</a>
                             <a class="dropdown-link w-dropdown-link drodown-title" tabindex="0">Beauty Bar</a>
                             <a class="dropdown-link w-dropdown-link drodown-title" tabindex="0">Wellness Bar</a>
 

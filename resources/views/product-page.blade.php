@@ -9,7 +9,7 @@
         <div class="container">
             <div class="heading-wrapper-centered">
                 <h1>All products</h1>
-                <p>*blurb here</p>
+                <p>You can have it all - From our shop to your home. Pamper your skin in rich opulent products from skincare to our favourite make-up line.  Treat yourself and give your skin the luxury it deserves.</p>
             </div>
             <div class="w-dyn-list">
                 <div role="list" class="product-grid w-dyn-items">
