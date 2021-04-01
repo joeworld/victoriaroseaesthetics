@@ -66,6 +66,15 @@ Route::get('/services/lipolysis', function () {
 Route::get('/services/mani-pedi', function () {
     return view('procedures/mani-pedi');
 });
+Route::get('/services/mani-pedis', function () {
+    return view('procedures/mani-pedi-pedi');
+});
+Route::get('/services/mani-pedi-all', function () {
+    return view('procedures/mani-pedi-all');
+});
+Route::get('/services/mani-pedi-add-ons', function () {
+    return view('procedures/mani-pedi-addons');
+});
 Route::get('/services/massage-therapy', function () {
     return view('procedures/massage-therapy');
 });

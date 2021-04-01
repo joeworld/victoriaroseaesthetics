@@ -58,7 +58,7 @@
         </div>
     </div>
 
-    <div class="section">
+    <div class="section padding-bottom-9em">
         <div class="container">
             <div class="w-layout-grid grid-2-column">
                 <div id="w-node-c6f28ec5-e2b7-2034-7b7a-104e024c9d1b-b826d78f" class="grid-content">
@@ -91,21 +91,23 @@
         </div>
     </div>
 
-    <div class="selection">
+    {{-- clinic photos --}}
+    <div class="section">
         <div class="container">
+            <div class="heading-wrapper no-padding-bottom">
+                <h2>The Clinic</h2>
+            </div>
             <div data-animation="cross" data-duration="500" data-infinite="1" class="best-seller-slider w-slider" role="region" aria-label="carousel">
                 <div class="w-slider-mask" id="w-slider-mask-0">
-                    <div class="product-slide w-slide" aria-label="1 of 3" role="group" style="transform: translateX(0px); opacity: 1;">
+                    <div class="product-slide w-slide" aria-label="1 of 2" role="group" style="transform: translateX(0px); opacity: 1;">
                         <div class="w-dyn-list">
                             <div role="list" class="grid-3-column no-overflow w-dyn-items">
                                 <div role="listitem" class="w-dyn-item">
-                                    <a class="instagram-post-wrapper w-inline-block">
+                                    <a class=" w-inline-block">
                                         <img
-                                            src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa6803d9b7bba44bd50fd5e_IG3.jpg"
+                                            src="/img/slideshow-1.png"
                                             loading="lazy"
-                                            width="302"
-                                            sizes="(max-width: 479px) 93vw, (max-width: 1439px) 301.99847412109375px, 100vw"
-                                            srcset="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa6803d9b7bba44bd50fd5e_IG3-p-500.jpeg 500w, https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa6803d9b7bba44bd50fd5e_IG3.jpg 604w"
+                                            srcset="/img/slideshow-1.png 500w, /img/slideshow-1.png 604w"
                                             alt=""
                                         />
                                     </a>
@@ -113,11 +115,9 @@
                                 <div role="listitem" class="w-dyn-item">
                                     <a class="instagram-post-wrapper w-inline-block">
                                         <img
-                                            src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa6803d9b7bba44bd50fd5e_IG3.jpg"
+                                            src="/img/slideshow-2.png"
                                             loading="lazy"
-                                            width="302"
-                                            sizes="(max-width: 479px) 93vw, (max-width: 1439px) 301.99847412109375px, 100vw"
-                                            srcset="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa6803d9b7bba44bd50fd5e_IG3-p-500.jpeg 500w, https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa6803d9b7bba44bd50fd5e_IG3.jpg 604w"
+                                            srcset="/img/slideshow-2.png 500w, /img/slideshow-2.png 604w"
                                             alt=""
                                         />
                                     </a>
@@ -125,11 +125,9 @@
                                 <div role="listitem" class="w-dyn-item">
                                     <a class="instagram-post-wrapper w-inline-block">
                                         <img
-                                            src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa6803d9b7bba44bd50fd5e_IG3.jpg"
+                                            src="/img/slideshow-3.png"
                                             loading="lazy"
-                                            width="302"
-                                            sizes="(max-width: 479px) 93vw, (max-width: 1439px) 301.99847412109375px, 100vw"
-                                            srcset="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa6803d9b7bba44bd50fd5e_IG3-p-500.jpeg 500w, https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa6803d9b7bba44bd50fd5e_IG3.jpg 604w"
+                                            srcset="/img/slideshow-3.png 500w, /img/slideshow-3.png 604w"
                                             alt=""
                                         />
                                     </a>
@@ -137,299 +135,48 @@
                             </div>
                         </div>
                     </div>
-                    <div class="product-slide w-slide" aria-label="2 of 3" role="group" aria-hidden="true" style="transform: translateX(0px); opacity: 1; visibility: hidden;">
+                    <div class="product-slide w-slide" aria-label="2 of 2" role="group" aria-hidden="true" style="transform: translateX(0px); opacity: 1; visibility: hidden;">
                         <div class="w-dyn-list" aria-hidden="true">
                             <div role="list" class="grid-3-column no-overflow w-dyn-items" aria-hidden="true">
                                 <div role="listitem" class="w-dyn-item" aria-hidden="true">
-                                    <a href="/product/cup-metal-straws" class="grid-link-block w-inline-block" tabindex="-1" aria-hidden="true">
+                                    <a class="grid-link-block w-inline-block" tabindex="-1" aria-hidden="true">
                                         <div class="grid-image-wrapper" aria-hidden="true">
-                                            <img
-                                                loading="lazy"
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                                                src="https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa29861e5f6efe2f3bf4eb6_cupAndStraw_mainImg.jpg"
-                                                alt=""
-                                                sizes="(max-width: 479px) 93vw, (max-width: 767px) 31vw, (max-width: 991px) 30vw, (max-width: 1439px) 28vw, 25vw"
-                                                srcset="
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa29861e5f6efe2f3bf4eb6_cupAndStraw_mainImg-p-500.jpeg   500w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa29861e5f6efe2f3bf4eb6_cupAndStraw_mainImg-p-800.jpeg   800w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa29861e5f6efe2f3bf4eb6_cupAndStraw_mainImg-p-1080.jpeg 1080w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa29861e5f6efe2f3bf4eb6_cupAndStraw_mainImg.jpg         1256w
-                                                "
-                                                class="grid-image"
-                                                aria-hidden="true"
-                                            />
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-tab w-condition-invisible"
-                                                aria-hidden="true"
-                                            >
-                                                <div class="small-all-caps light" aria-hidden="true">Sale</div>
-                                            </div>
-                                        </div>
-                                        <div class="grid-content-wrapper" aria-hidden="true">
-                                            <h5 aria-hidden="true">Cup &amp; Metal Straws</h5>
-                                            <div aria-hidden="true">1 Cup &amp; 2 Metal Straws</div>
-                                            <div
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22no%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="product-price"
-                                                aria-hidden="true"
-                                            >
-                                                $&nbsp;15.00&nbsp;USD
-                                            </div>
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-price-wrapper w-condition-invisible"
-                                                aria-hidden="true"
-                                            >
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="old-price" aria-hidden="true">$&nbsp;15.00&nbsp;USD</div>
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="new-price" aria-hidden="true">$&nbsp;15.00&nbsp;USD</div>
-                                            </div>
+                                            <a class=" w-inline-block">
+                                                <img
+                                                    src="/img/slideshow-4.png"
+                                                    loading="lazy"
+                                                    srcset="/img/slideshow-4.png 500w, /img/slideshow-4.png 604w"
+                                                    alt=""
+                                                />
+                                            </a>
                                         </div>
                                     </a>
                                 </div>
                                 <div role="listitem" class="w-dyn-item" aria-hidden="true">
-                                    <a href="/product/zero-waste-market-kit" class="grid-link-block w-inline-block" tabindex="-1" aria-hidden="true">
+                                    <a class="grid-link-block w-inline-block" tabindex="-1" aria-hidden="true">
                                         <div class="grid-image-wrapper" aria-hidden="true">
-                                            <img
-                                                loading="lazy"
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                                                src="https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa297d97d089bbc2b09347c_marketKit_mainImg.jpg"
-                                                alt=""
-                                                sizes="(max-width: 479px) 93vw, (max-width: 767px) 31vw, (max-width: 991px) 30vw, (max-width: 1439px) 28vw, 25vw"
-                                                srcset="
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa297d97d089bbc2b09347c_marketKit_mainImg-p-500.jpeg   500w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa297d97d089bbc2b09347c_marketKit_mainImg-p-800.jpeg   800w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa297d97d089bbc2b09347c_marketKit_mainImg-p-1080.jpeg 1080w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa297d97d089bbc2b09347c_marketKit_mainImg.jpg         1256w
-                                                "
-                                                class="grid-image"
-                                                aria-hidden="true"
-                                            />
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-tab w-condition-invisible"
-                                                aria-hidden="true"
-                                            >
-                                                <div class="small-all-caps light" aria-hidden="true">Sale</div>
-                                            </div>
-                                        </div>
-                                        <div class="grid-content-wrapper" aria-hidden="true">
-                                            <h5 aria-hidden="true">Zero Waste Market Kit</h5>
-                                            <div aria-hidden="true">2 x Medium and 2 x Large Bags</div>
-                                            <div
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22no%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="product-price"
-                                                aria-hidden="true"
-                                            >
-                                                $&nbsp;18.00&nbsp;USD
-                                            </div>
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-price-wrapper w-condition-invisible"
-                                                aria-hidden="true"
-                                            >
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="old-price" aria-hidden="true">$&nbsp;18.00&nbsp;USD</div>
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="new-price" aria-hidden="true">$&nbsp;18.00&nbsp;USD</div>
-                                            </div>
+                                            <a class=" w-inline-block">
+                                                <img
+                                                    src="/img/slideshow-5.png"
+                                                    loading="lazy"
+                                                    srcset="/img/slideshow-5.png 500w, /img/slideshow-5.png 604w"
+                                                    alt=""
+                                                />
+                                            </a>
                                         </div>
                                     </a>
                                 </div>
                                 <div role="listitem" class="w-dyn-item" aria-hidden="true">
-                                    <a href="/product/wooden-dish-brush" class="grid-link-block w-inline-block" tabindex="-1" aria-hidden="true">
+                                    <a class="grid-link-block w-inline-block" tabindex="-1" aria-hidden="true">
                                         <div class="grid-image-wrapper" aria-hidden="true">
-                                            <img
-                                                loading="lazy"
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                                                src="https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa29753370f82a30beeb08d_dishBrush_mainImg.jpg"
-                                                alt=""
-                                                sizes="(max-width: 479px) 93vw, (max-width: 767px) 31vw, (max-width: 991px) 30vw, (max-width: 1439px) 28vw, 25vw"
-                                                srcset="
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa29753370f82a30beeb08d_dishBrush_mainImg-p-500.jpeg   500w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa29753370f82a30beeb08d_dishBrush_mainImg-p-800.jpeg   800w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa29753370f82a30beeb08d_dishBrush_mainImg-p-1080.jpeg 1080w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa29753370f82a30beeb08d_dishBrush_mainImg.jpg         1256w
-                                                "
-                                                class="grid-image"
-                                                aria-hidden="true"
-                                            />
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-tab"
-                                                aria-hidden="true"
-                                            >
-                                                <div class="small-all-caps light" aria-hidden="true">Sale</div>
-                                            </div>
-                                        </div>
-                                        <div class="grid-content-wrapper" aria-hidden="true">
-                                            <h5 aria-hidden="true">Wooden Dish Brush</h5>
-                                            <div aria-hidden="true">1 Piece</div>
-                                            <div
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22no%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="product-price w-condition-invisible"
-                                                aria-hidden="true"
-                                            >
-                                                $&nbsp;12.00&nbsp;USD
-                                            </div>
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-price-wrapper"
-                                                aria-hidden="true"
-                                            >
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="old-price" aria-hidden="true">$&nbsp;12.00&nbsp;USD</div>
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="new-price" aria-hidden="true">$&nbsp;12.00&nbsp;USD</div>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="product-slide w-slide" aria-label="3 of 3" role="group" aria-hidden="true" style="transform: translateX(0px); opacity: 1; visibility: hidden;">
-                        <div class="w-dyn-list" aria-hidden="true">
-                            <div role="list" class="grid-3-column no-overflow w-dyn-items" aria-hidden="true">
-                                <div role="listitem" class="w-dyn-item" aria-hidden="true">
-                                    <a href="/product/face-roller" class="grid-link-block w-inline-block" tabindex="-1" aria-hidden="true">
-                                        <div class="grid-image-wrapper" aria-hidden="true">
-                                            <img
-                                                loading="lazy"
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                                                src="https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a4c1d439e86edcd1ba6f_faceRoller_mainImg.jpg"
-                                                alt=""
-                                                sizes="(max-width: 479px) 93vw, (max-width: 767px) 31vw, (max-width: 991px) 30vw, (max-width: 1439px) 28vw, 25vw"
-                                                srcset="
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a4c1d439e86edcd1ba6f_faceRoller_mainImg-p-500.jpeg   500w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a4c1d439e86edcd1ba6f_faceRoller_mainImg-p-800.jpeg   800w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a4c1d439e86edcd1ba6f_faceRoller_mainImg-p-1080.jpeg 1080w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a4c1d439e86edcd1ba6f_faceRoller_mainImg.jpg         1256w
-                                                "
-                                                class="grid-image"
-                                                aria-hidden="true"
-                                            />
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-tab w-condition-invisible"
-                                                aria-hidden="true"
-                                            >
-                                                <div class="small-all-caps light" aria-hidden="true">Sale</div>
-                                            </div>
-                                        </div>
-                                        <div class="grid-content-wrapper" aria-hidden="true">
-                                            <h5 aria-hidden="true">Jade Face Roller</h5>
-                                            <div aria-hidden="true">1 Each</div>
-                                            <div
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22no%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="product-price"
-                                                aria-hidden="true"
-                                            >
-                                                $&nbsp;14.00&nbsp;USD
-                                            </div>
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-price-wrapper w-condition-invisible"
-                                                aria-hidden="true"
-                                            >
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="old-price" aria-hidden="true">$&nbsp;14.00&nbsp;USD</div>
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="new-price" aria-hidden="true">$&nbsp;14.00&nbsp;USD</div>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div role="listitem" class="w-dyn-item" aria-hidden="true">
-                                    <a href="/product/organic-menstrual-cup" class="grid-link-block w-inline-block" tabindex="-1" aria-hidden="true">
-                                        <div class="grid-image-wrapper" aria-hidden="true">
-                                            <img
-                                                loading="lazy"
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                                                src="https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a496d439e8793cd1ba13_menstrualCup_mainImg.jpg"
-                                                alt=""
-                                                sizes="(max-width: 479px) 93vw, (max-width: 767px) 31vw, (max-width: 991px) 30vw, (max-width: 1439px) 28vw, 25vw"
-                                                srcset="
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a496d439e8793cd1ba13_menstrualCup_mainImg-p-500.jpeg   500w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a496d439e8793cd1ba13_menstrualCup_mainImg-p-800.jpeg   800w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a496d439e8793cd1ba13_menstrualCup_mainImg-p-1080.jpeg 1080w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a496d439e8793cd1ba13_menstrualCup_mainImg.jpg         1256w
-                                                "
-                                                class="grid-image"
-                                                aria-hidden="true"
-                                            />
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-tab w-condition-invisible"
-                                                aria-hidden="true"
-                                            >
-                                                <div class="small-all-caps light" aria-hidden="true">Sale</div>
-                                            </div>
-                                        </div>
-                                        <div class="grid-content-wrapper" aria-hidden="true">
-                                            <h5 aria-hidden="true">Organic Menstrual Cup</h5>
-                                            <div aria-hidden="true">1 Each</div>
-                                            <div
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22no%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="product-price"
-                                                aria-hidden="true"
-                                            >
-                                                $&nbsp;6.50&nbsp;USD
-                                            </div>
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-price-wrapper w-condition-invisible"
-                                                aria-hidden="true"
-                                            >
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="old-price" aria-hidden="true">$&nbsp;6.50&nbsp;USD</div>
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="new-price" aria-hidden="true">$&nbsp;6.50&nbsp;USD</div>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div role="listitem" class="w-dyn-item" aria-hidden="true">
-                                    <a href="/product/natural-bamboo-toothbrush" class="grid-link-block w-inline-block" tabindex="-1" aria-hidden="true">
-                                        <div class="grid-image-wrapper" aria-hidden="true">
-                                            <img
-                                                loading="lazy"
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_main_image_4dr%22%2C%22to%22%3A%22src%22%7D%5D"
-                                                src="https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a3fd0aee7f4f2d7c4671_bambooToothbrush_mainImg.jpg"
-                                                alt=""
-                                                sizes="(max-width: 479px) 93vw, (max-width: 767px) 31vw, (max-width: 991px) 30vw, (max-width: 1439px) 28vw, 25vw"
-                                                srcset="
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a3fd0aee7f4f2d7c4671_bambooToothbrush_mainImg-p-800.jpeg   800w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a3fd0aee7f4f2d7c4671_bambooToothbrush_mainImg-p-1080.jpeg 1080w,
-                                                    https://assets.website-files.com/5f9806c8c525a33a2e484ffd/5fa2a3fd0aee7f4f2d7c4671_bambooToothbrush_mainImg.jpg         1256w
-                                                "
-                                                class="grid-image"
-                                                aria-hidden="true"
-                                            />
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-tab w-condition-invisible"
-                                                aria-hidden="true"
-                                            >
-                                                <div class="small-all-caps light" aria-hidden="true">Sale</div>
-                                            </div>
-                                        </div>
-                                        <div class="grid-content-wrapper" aria-hidden="true">
-                                            <h5 aria-hidden="true">Natural Bamboo Toothbrush</h5>
-                                            <div aria-hidden="true">Set of 2</div>
-                                            <div
-                                                data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D"
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22no%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="product-price"
-                                                aria-hidden="true"
-                                            >
-                                                $&nbsp;7.90&nbsp;USD
-                                            </div>
-                                            <div
-                                                data-wf-sku-conditions="%7B%22condition%22%3A%7B%22fields%22%3A%7B%22default-sku%3Acompare-at-price%22%3A%7B%22exists%22%3A%22yes%22%2C%22type%22%3A%22CommercePrice%22%7D%7D%7D%2C%22timezone%22%3A%22Europe%2FWarsaw%22%7D"
-                                                class="sale-price-wrapper w-condition-invisible"
-                                                aria-hidden="true"
-                                            >
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="old-price" aria-hidden="true">$&nbsp;7.90&nbsp;USD</div>
-                                                <div data-wf-sku-bindings="%5B%7B%22from%22%3A%22f_price_%22%2C%22to%22%3A%22innerHTML%22%7D%5D" class="new-price" aria-hidden="true">$&nbsp;7.90&nbsp;USD</div>
-                                            </div>
+                                            <a class=" w-inline-block">
+                                                <img
+                                                    src="/img/slideshow-6.png"
+                                                    loading="lazy"
+                                                    srcset="/img/slideshow-6.png 500w, /img/slideshow-6.png 604w"
+                                                    alt=""
+                                                />
+                                            </a>
                                         </div>
                                     </a>
                                 </div>
@@ -439,10 +186,10 @@
                     <div aria-live="polite" aria-atomic="true" class="w-slider-aria-label" data-wf-ignore=""></div>
                 </div>
                 <div class="left-arrow top-right w-slider-arrow-left" role="button" tabindex="0" aria-controls="w-slider-mask-0" aria-label="previous slide">
-                    <img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa95c01af83639f7112ffd5_arrow-left.svg" loading="lazy" alt="" />
+                    <img src="/img/left.svg" loading="lazy" alt="" />
                 </div>
                 <div class="right-arrow top-right w-slider-arrow-right" role="button" tabindex="0" aria-controls="w-slider-mask-0" aria-label="next slide">
-                    <img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa95c01b60adeaf5e257289_arrow-right.svg" loading="lazy" alt="" />
+                    <img src="/img/right.svg" loading="lazy" alt="" />
                 </div>
                 <div class="slide-nav w-slider-nav w-round">
                     <div class="w-slider-dot w-active" data-wf-ignore="" aria-label="Show slide 1 of 3" aria-selected="true" role="button" tabindex="0"></div>

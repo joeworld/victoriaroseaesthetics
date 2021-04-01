@@ -1,5 +1,5 @@
 @extends('partials.master')
-@section('title', 'Mani')
+@section('title', 'Mani + Pedi')
 @section('page', '5fa686c7b73fbb4dd28a52dd')
 
 @section('content')
@@ -29,8 +29,6 @@
                     </div>
                 </div>
             </div>
-
-            {{-- Add images and sub img --}}
             <div>
                 <div class="padding-top-9em">
                     <div class="big-title">DELUXE  MANICURE</div>
@@ -43,10 +41,35 @@
                     <p>Sugar Scrub, Mud Masque, Massage Butter, Deluxe hand massage, Cuticle care, Bioseaweed LED Gel Polish application.</p>
                 </div>
             </div>
+
+            <div>
+                <div class="padding-top-9em">
+                    <div class="big-title">DELUXE PEDICURE</div>
+                    <br>
+                    <p>Sea Salt Soak, Sugar Scrub, Mud Mask, Massage Butter, Hot Stone Foot Massage, Cuticle & Callus care, CND Vinylux Polish application.</p>
+                </div>
+                <div class="padding-top-9em">
+                    <div class="big-title">BIOSEAWEED PEDICURE</div>
+                    <br>
+                    <p>Sugar Sea Salt Soak, Sugar Scrub, Mud Mask, Massage Butter, Hot Stone Foot Massage, Cuticle & Callus care, Bioseaweed LED Gel Polish application, Mud Masque, Massage Butter, Deluxe hand massage, Cuticle care, CND Vinylux Polish application.</p>
+                </div>
+            </div>
+            <div>
+                <div class="padding-top-9em">
+                    <div class="big-title">PARAFFIN</div>
+                    <br>
+                    <p>Cosmetically, paraffin wax is often applied to the hands and feet. The wax is a natural emollient, helping make skin supple and soft. When applied to the skin, it adds luxurious moisture and continues to boost the moisture levels of the skin after the treatment is complete. It can also help open pores and remove dead skin cells.</p>
+                </div>
+                <div class="padding-top-9em">
+                    <div class="big-title">POLISH REMOVAL</div>
+                </div>
+                <div class="padding-top-9em">
+                    <div class="big-title">NAIL DESIGNS AVAILABLE</div>
+                </div>
+            </div>
         </div>
     </div>
     @include('partials.coffee')
-
     {{-- <div class="section">
         <div class="container w-dyn-list">
             <div class="blog-list w-dyn-items" role="list">

@@ -1,5 +1,5 @@
 @extends('partials.master')
-@section('title', 'Mani')
+@section('title', 'Pedi')
 @section('page', '5fa686c7b73fbb4dd28a52dd')
 
 @section('content')
@@ -17,10 +17,10 @@
                     <div class="w-dyn-list">
                         <div role="list" class="subnavigation-collection-list w-dyn-items">
                             <div role="listitem" class="w-dyn-item">
-                                <a href="/services/mani-pedi" aria-current="page" class="subnavigation-link w--current">Mani</a>
+                                <a href="/services/mani-pedi" aria-current="page" class="subnavigation-link ">Mani</a>
                             </div>
                             <div role="listitem" class="w-dyn-item">
-                                <a href="/services/mani-pedis" class="subnavigation-link">Pedi</a>
+                                <a href="/services/mani-pedis" class="subnavigation-link w--current">Pedi</a>
                             </div>
                             <div role="listitem" class="w-dyn-item">
                                 <a href="/services/mani-pedi-add-ons" class="subnavigation-link">Add-ons</a>
@@ -30,23 +30,24 @@
                 </div>
             </div>
 
+
+
             {{-- Add images and sub img --}}
             <div>
                 <div class="padding-top-9em">
-                    <div class="big-title">DELUXE  MANICURE</div>
+                    <div class="big-title">DELUXE PEDICURE</div>
                     <br>
-                    <p>Sugar Scrub, Mud Masque, Massage Butter, Deluxe hand massage, Cuticle care, CND Vinylux Polish application.</p>
+                    <p>Sea Salt Soak, Sugar Scrub, Mud Mask, Massage Butter, Hot Stone Foot Massage, Cuticle & Callus care, CND Vinylux Polish application.</p>
                 </div>
                 <div class="padding-top-9em">
-                    <div class="big-title">BIOSEAWEED MANICURE</div>
+                    <div class="big-title">BIOSEAWEED PEDICURE</div>
                     <br>
-                    <p>Sugar Scrub, Mud Masque, Massage Butter, Deluxe hand massage, Cuticle care, Bioseaweed LED Gel Polish application.</p>
+                    <p>Sugar Sea Salt Soak, Sugar Scrub, Mud Mask, Massage Butter, Hot Stone Foot Massage, Cuticle & Callus care, Bioseaweed LED Gel Polish application, Mud Masque, Massage Butter, Deluxe hand massage, Cuticle care, CND Vinylux Polish application.</p>
                 </div>
             </div>
         </div>
     </div>
     @include('partials.coffee')
-
     {{-- <div class="section">
         <div class="container w-dyn-list">
             <div class="blog-list w-dyn-items" role="list">
