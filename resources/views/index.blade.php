@@ -36,7 +36,7 @@
         </div>
 
         {{-- about victoria --}}
-        <div class="section section padding-3-5em">
+        {{-- <div class="section section padding-3-5em">
             <div class="container">
                 <div class="heading-wrapper-centered padding-bottom-3-5em">
                     <h2 >Hey there!</h2>
@@ -62,7 +62,7 @@
                     />
                 </div>
             </div>
-        </div>
+        </div> --}}
 
         {{-- services --}}
         @include('partials.services')
