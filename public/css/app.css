@@ -8698,7 +8698,8 @@ blockquote {
     }
 
     .dropdown-link {
-        width: 50%;
+        width: 33.33333%;
+        font-size: 0.9em;
     }
 
     .team-slide-image-wrapper {
