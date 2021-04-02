@@ -9054,6 +9054,15 @@ blockquote {
         margin-bottom: 0.4em;
         font-size: 3.2em;
     }
+    .handwritten.large-home{
+        overflow: hidden;
+        font-size: 2em !important;
+        white-space: nowrap;
+        padding-bottom: 1em;
+    }
+    .hero3-content-wrapper{
+        padding-top: 2em;
+    }
 
     h5 {
         margin-bottom: 0px;
@@ -9611,9 +9620,22 @@ blockquote {
     }
 
     .hero3 {
-        -webkit-flex-wrap: wrap;
-        -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+        display: -webkit-box;
+        display: -moz-box;
+        display: box;
+        -webkit-box-orient: vertical;
+        -moz-box-orient: vertical;
+        box-orient: vertical;
+    }
+    #blocka{
+        -webkit-box-ordinal-group: 2;
+        -moz-box-ordinal-group: 2;
+        box-ordinal-group: 2;
+    }
+    #blockb{
+        -webkit-box-ordinal-group: 1;
+        -moz-box-ordinal-group: 1;
+        box-ordinal-group: 1;
     }
 
     .hero3-content-wrapper {

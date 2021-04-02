@@ -6,7 +6,7 @@
 
         {{-- banner --}}
         <div class="hero3 section padding-3-5em">
-            <div class="hero3-content-wrapper">
+            <div class="hero3-content-wrapper" id="blocka">
                 <div>
                     <h1 class="handwritten large-home">Graceful Rejuvenation. Lavish Beautification</h1>
                     <p class="small-width">Victoria Rose Aesthetics is a Medical Spa & Wellness Clinic dedicated to offering a five-star luxury experience that will help you live your best life and age gracefully with the wellness and confidence that comes from natural-looking, beautiful results.</p>
@@ -17,7 +17,7 @@
                     </div>
                 </div>
             </div>
-            <div class="hero3-image-wrapper">
+            <div class="hero3-image-wrapper" id="blockb">
                 <img
                     src="/img/20200207_Branding_050.png"
                     loading="lazy"
