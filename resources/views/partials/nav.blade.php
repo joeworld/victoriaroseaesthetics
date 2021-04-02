@@ -59,8 +59,8 @@
             <div class="nav-social-wrapper">
                 <div class="small-all-caps">Follow us</div>
                 <div class="bar-social-icons">
-                    <a href="https://www.facebook.com/Victoria-Rose-Aesthetics-105126984353097" class="nav-social-link w-inline-block"><img src="/img/facebook.svg" loading="lazy" alt="" /></a>
-                    <a href="http://instagram.com/victoriarose.aesthetics/" class="nav-social-link w-inline-block"><img src="/img/instagram.svg" loading="lazy" alt="" /></a>
+                    <a href="https://www.facebook.com/Victoria-Rose-Aesthetics-105126984353097" class="nav-social-link w-inline-block"><img src="/img/facebook-black.svg" loading="lazy" alt="" /></a>
+                    <a href="http://instagram.com/victoriarose.aesthetics/" class="nav-social-link w-inline-block"><img src="/img/instagram-color.svg" loading="lazy" alt="" /></a>
                 </div>
             </div>
         </nav>
