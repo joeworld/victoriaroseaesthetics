@@ -83,10 +83,8 @@
                                 </div>
                                 <div class="team-slide-content-wrapper">
                                     <div class="small-all-caps">PRP MICRONEEDLING</div>
-                                    <p>Microneedling with plasma-rich platelets (PRP) uses part of the blood from the person having the procedure to rejuvenate the skin, is a cosmetic treatment that stimulates collagen production by rolling fine needles over the skin and applying platelets, which are one of the components of blood.</p>
-                                    <p>The Beauty Booster Delivery Device injects into the skin with precise depth and accuracy. The treatment can be completely customized with a wide range of applications to target dehydrated skin, fine lines, and wrinkles. It can be used to achieve tighter, firmer skin on the face, lower eyelid, forehead, neck, décolleté, and hands.</p>
-                                    <p>It offers precise depth and accurate dosing for a quick and effective treatment with minimal pain and downtime for patients. The 9 points multi-needle tip and vacuum tip reduces discomfort for the patient while adding the benefits of micro-needling. </p>
-                                    <p>This treatment is ideal for any patient who feels their skin looks tired, dull, crepey, or dehydrated and for individuals with uneven skin tone, texture or roughness, fine lines, and dark, drawn areas. The results are visibly lighter, smoother, softer, more youthful-looking skin, and with annual or semi-annual touch-ups, can be used to prevent the signs of aging.</p>
+                                    <p>Microneedling with plasma-rich platelets (PRP) is a cosmetic treatment that stimulates collagen production by rolling fine needles over the skin and applying platelets, which are one of the components of blood.</p>
+                                    <p>The Beauty Booster Delivery Device offers precise depth and accurate dosing for a quick and effective treatment with minimal pain and downtime for patients. The 9 points multi-needle tip and vacuum tip reduces discomfort. The treatment can be completely customized with a wide range of applications to target dehydrated skin, fine lines, and wrinkles. </p>
                                 </div>
                             </div>
                         </div>
