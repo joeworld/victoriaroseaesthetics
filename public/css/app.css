@@ -518,6 +518,9 @@ textarea.w-input, textarea.w-select {
 .w-radio:after {
     clear:both
 }
+.no-bottom-padding{
+    padding-bottom:0em !important;
+}
 
 .w-radio-input {
     margin: 4px 0 0;
@@ -3525,6 +3528,7 @@ textarea.w-input, textarea.w-select {
     border-right-style: solid;
 }
 
+
 .w-commerce-commercecheckoutshippingmethoditem {
     padding-top: 16px;
     padding-bottom: 16px;
@@ -5546,6 +5550,9 @@ blockquote {
 .grid-image-block {
     position: relative;
     height: 640px;
+}
+.grid-image-block-2 {
+    position: relative;
 }
 
 .grid-image-block.padding-left {
@@ -9871,10 +9878,10 @@ blockquote {
 }
 
 #w-node-c6f28ec5-e2b7-2034-7b7a-104e024c9d1b-b826d78f {
-    -webkit-align-self: center;
-    -ms-flex-item-align: center;
-    -ms-grid-row-align: center;
-    align-self: center;
+    -webkit-align-self: flex-start;
+    -ms-flex-item-align: flex-start;
+    -ms-grid-row-align: flex-start;
+    align-self: flex-start;
 }
 
 #w-node-_4229f34c-bd74-1501-ded0-2e5247f73566-b826d78f {

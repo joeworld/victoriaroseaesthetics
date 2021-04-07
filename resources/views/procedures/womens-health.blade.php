@@ -3,8 +3,7 @@
 @section('page', '5fa686c7b73fbb4dd28a52dd')
 
 @section('content')
-
-    <div class="section padding-top-9em">
+    <div class="section padding-top-6em">
         <div class="section">
             <div class="container">
                 <div class="heading-wrapper-centered">

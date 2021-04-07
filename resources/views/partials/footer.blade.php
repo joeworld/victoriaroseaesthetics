@@ -26,13 +26,13 @@
 
                                 - 6:00pm</a>
                         <a class="footer-link light">Thursday:
-                                12:00am
-
-                                - 8:00pm</a>
-                        <a class="footer-link light">Friday:
                                 12:00pm
 
                                 - 8:00pm</a>
+                        <a class="footer-link light">Friday:
+                                10:00pm
+
+                                - 6:00pm</a>
                         <a class="footer-link light">Saturday:
                                 10:00am
 
