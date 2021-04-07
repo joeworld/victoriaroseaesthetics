@@ -5411,6 +5411,9 @@ blockquote {
     align-items: center;
 }
 
+.hours-op{
+    white-space: nowrap;
+}
 .button {
     position: relative;
     margin-bottom: 0px;
