@@ -11,29 +11,36 @@
                     </div>
                     <nav class="dropdown-list w-dropdown-list" id="w-dropdown-list-1" aria-labelledby="w-dropdown-toggle-1">
                         <div class="dropdown-link-wrapper" style="opacity: 0; transform: translate3d(0px, -16px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-                            <a class="dropdown-link w-dropdown-link drodown-title" tabindex="0">Injectables</a>
-                            <a class="dropdown-link w-dropdown-link drodown-title" tabindex="0">Beauty Bar</a>
-                            <a class="dropdown-link w-dropdown-link drodown-title" tabindex="0">Wellness Bar</a>
+                            <a class="dropdown-link w-dropdown-link drodown-title" data-title-category="Injectables" tabindex="0">Injectables</a>
+                            <a class="dropdown-link w-dropdown-link drodown-title" data-title-category="Laser Therapy" tabindex="0">Laser Therapy</a>
+                            <a class="dropdown-link w-dropdown-link drodown-title" data-title-category="Beauty Bar" tabindex="0">Beauty Bar</a>
+                            <a class="dropdown-link w-dropdown-link drodown-title" data-title-category="Wellness Bar" tabindex="0">Wellness Bar</a>
 
-                            <a href="/services/botox-nuceiva" class="dropdown-link w-dropdown-link" tabindex="0">Botox/Nuceiva</a>
-                            <a href="/services/mani-pedi" class="dropdown-link w-dropdown-link" tabindex="0">Mani + Pedi</a>
-                            <a href="/services/womens-health" class="dropdown-link w-dropdown-link" tabindex="0">Women's Health</a>
+                            <a data-category="Injectables" href="/services/botox-nuceiva" class="dropdown-link w-dropdown-link" tabindex="0">Botox/Nuceiva</a>
+                            <a data-category="Laser Therapy" href="/services/acne-scar-revision" class="dropdown-link w-dropdown-link" tabindex="0">Acne Scar Revision</a>
+                            <a data-category="Beauty Bar" href="/services/mani-pedi" class="dropdown-link w-dropdown-link" tabindex="0">Mani + Pedi</a>
+                            <a data-category="Wellness Bar" href="/services/womens-health" class="dropdown-link w-dropdown-link" tabindex="0">Women's Health</a>
 
-                            <a href="/services/dermal-fillers" class="dropdown-link w-dropdown-link" tabindex="0">Dermal Fillers</a>
-                            <a href="/services/facials" class="dropdown-link w-dropdown-link" tabindex="0">Facials</a>
-                            <a href="/services/iv-therapy" class="dropdown-link w-dropdown-link" tabindex="0">IV Therapy</a>
+                            <a data-category="Injectables" href="/services/dermal-fillers" class="dropdown-link w-dropdown-link" tabindex="0">Dermal Fillers</a>
+                            <a data-category="Laser Therapy" href="/services/laser-hair-removal" class="dropdown-link w-dropdown-link" tabindex="0">Laser Hair Removal</a>
+                            <a data-category="Beauty Bar" href="/services/facials" class="dropdown-link w-dropdown-link" tabindex="0">Facials</a>
+                            <a data-category="Wellness Bar" href="/services/iv-therapy"  class="dropdown-link w-dropdown-link" tabindex="0">IV Therapy</a>
 
-                            <a href="/services/prp" class="dropdown-link w-dropdown-link" tabindex="0">PRP</a>
-                            <a href="/services/brows-lashes" class="dropdown-link w-dropdown-link" tabindex="0">Brows + Lashes</a>
-                            <a href="/services/massage-therapy" class="dropdown-link w-dropdown-link" tabindex="0">Massage Therapy</a>
+                            <a data-category="Injectables" href="/services/prp" class="dropdown-link w-dropdown-link" tabindex="0">PRP Injections</a>
+                            <a data-category="Laser Therapy" href="/services/skin-resurfacing" class="dropdown-link w-dropdown-link" tabindex="0">Skin Resurfacing</a>
+                            <a data-category="Beauty Bar" href="/services/brows-lashes" class="dropdown-link w-dropdown-link" tabindex="0">Brows + Lashes</a>
+                            <a data-category="Wellness Bar"href="/services/sleep-apnea-snoring" class="dropdown-link w-dropdown-link" tabindex="0">Sleep Apnea + Snoring</a>
 
-                            <a href="/services/lipolysis" class="dropdown-link w-dropdown-link" tabindex="0">Lipolysis</a>
+                            <a data-category="Injectables" href="/services/sculptra-butt-lift" class="dropdown-link w-dropdown-link" tabindex="0">Sculptra Butt Lift</a>
                             <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
-                            <a href="/services/nathuropathic-medicines" class="dropdown-link w-dropdown-link" tabindex="0">Naturopathic Medicine</a>
+                            <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
+                            <a data-category="Wellness Bar" href="javascript:void(0)" class="dropdown-link w-dropdown-link" tabindex="0" id="coming-soon" onclick="this.innerHTML = 'Coming Soon'">Naturopathic Medicine</a>
 
+                            <a data-category="Injectables" href="/services/lipolysis" class="dropdown-link w-dropdown-link" tabindex="0">Lipolysis</a>
                             <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
                             <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
-                            <a href="/services/sleep-apnea-snoring" class="dropdown-link w-dropdown-link" tabindex="0">Sleep Apnea + Snoring</a>
+                            <a data-category="Wellness Bar" href="javascript:void(0)"  class="dropdown-link w-dropdown-link" tabindex="0" id="coming-soon" onclick="this.innerHTML = 'Coming Soon'">Massage Therapy</a>
+
                         </div>
                     </nav>
                 </div>
@@ -54,6 +61,9 @@
                 </div>
                 <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown">
                     <a href="/financing" class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">FINANCING</a>
+                </div>
+                <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown booking-mob" style="visibility: hidden;">
+                    <a href="https://victoriacyr.myaestheticrecord.com/book/appointments/wg5Y0GWLknpmb9VZ9Kv4lNBAojMaJQ/clinics" target="_blank"  class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">BOOK NOW</a>
                 </div>
             </div>
             <div class="nav-social-wrapper">
@@ -80,13 +90,13 @@
         </div>
         <div role="navigation" class="nav-right w-nav-menu">
             <div>
-                {{-- <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown">
-                    <a href="/" class="dropdown-toggle first w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">Blog</a>
-                </div> --}}
                 <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown">
-                    <a href="/contact" class="dropdown-toggle first w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">CONTACT</a>
+                    <a href="javascript:void(0)" class="dropdown-toggle first w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" onclick="this.innerHTML = 'Coming Soon'" tabindex="0">Promotions</a>
                 </div>
                 <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown">
+                    <a href="/contact" class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">CONTACT</a>
+                </div>
+                <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown booking-desk">
                     <a target="_blank" rel="noopener noreferrer" href="https://victoriacyr.myaestheticrecord.com/book/appointments/wg5Y0GWLknpmb9VZ9Kv4lNBAojMaJQ/clinics" class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-expanded="false" role="button" tabindex="0">BOOK NOW</a>
                 </div>
             </div>

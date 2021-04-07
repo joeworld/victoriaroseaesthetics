@@ -93,6 +93,19 @@ Route::get('/services/sleep-apnea-snoring', function () {
 Route::get('/services/womens-health', function () {
     return view('procedures/womens-health');
 });
+Route::get('/services/sculptra-butt-lift', function () {
+    return view('procedures/sculptra-butt-lift');
+});
+Route::get('/services/acne-scar-revision', function () {
+    return view('procedures/acne-scar-revision');
+});
+Route::get('/services/laser-hair-removal', function () {
+    return view('procedures/laser-hair-removal');
+});
+Route::get('/services/skin-resurfacing', function () {
+    return view('procedures/skin-resurfacing');
+});
+
 
 // products
 

@@ -11,85 +11,100 @@
                     <h4>@yield('title')</h4>
                 </div>
             </div>
-            {{-- <div class="subnavigation">
-                <div class="subnavigation-wrapper">
-                    <a href="/services/brows-lashes-all" class="subnavigation-link w--current">All</a>
-                    <div class="w-dyn-list">
-                        <div role="list" class="subnavigation-collection-list w-dyn-items">
-                            <div role="listitem" class="w-dyn-item">
-                                <a href="/services/brows-lashes" aria-current="page" class="subnavigation-link">Brow + Lashes</a>
+            <div>
+                <div class="padding-top-9em">
+                    <div class="big-title">FARSK IV DRIPS</div>
+                    <br>
+                    <p>
+                        Intravenous treatments allow patients immediate access to improved wellbeing because they are effective and fast-acting.
+                    </p>
+                    <p>
+                        With IV drips, the body receives the vitamins and minerals by injecting the solution directly into the bloodstream; a process that bypasses the digestive system and allows clients to feel the positive effects instantly.
+                    </p>
+                    <p>All our products are vegan and cruelty-free.</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <section>
+        <div class="container">
+            <div data-animation="outin" data-duration="500" data-infinite="1" class="team-slider w-slider" role="region" aria-label="carousel">
+                <div class="w-slider-mask" id="w-slider-mask-0">
+                    <div class="team-slide w-slide" role="group" style="transform: translateX(0px); opacity: 1;">
+                        <div class="w-layout-grid grid-2-column align-center">
+                            <div class="team-slide-image-wrapper">
+                                <img src="/img/farsk-iv-immune.png" alt="">
                             </div>
-                            <div role="listitem" class="w-dyn-item">
-                                <a href="/services/brows-lashes-comingsoon" class="subnavigation-link">Coming Soon</a>
+                            <div class="team-slide-content-wrapper">
+                                <div class="small-all-caps">IMMUNE IV DRIP</div>
+                                <p>refine | illuminate | refresh</p>
+                                <p>
+                                    Vitamin C, Vitamin D, Zinc. Thiamine (Vitamin B1), Riboflavin (Vitamin B2), Niacinamide (Vitamin B3), d-Panthenol (pro-Vitamin B5), Pyridoxine (Vitamin B6), Biotin (Vitamin B7), Folic Acid (Vitamin B9), Cyanocobalamin (Vitamin B12), Vitamin A, Vitamin E, Levocarnitine, N-Acetylcysteine, Amino Acid Blend, Selenium, Magnesium.
+                                </p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div> --}}
-
-
-
-            {{-- Add images and sub img --}}
-            <div>
-                <div class="padding-top-9em">
-                    <div class="big-title">BROW & LASH TINTING</div>
-                    <br>
-                    <p>An eyelash tint consists of adding a special dye to your eyelashes, giving you weeks of dark, full lashes without the assistance of mascara. You recline in a salon chair and a technician applies the dye to your lashes while you keep your eyes closed for about 10 minutes. It's a quick, relatively painless process.</p>
-                    <p>Eyebrow tinting is the process of applying semi-permanent dye to enhance, shape, and define your brows.</p>
-                </div>
-                <div class="padding-top-9em">
-                    <div class="big-title">BROW LAMINATION</div>
-                    <br>
-                    <p>Brow lamination is a two-step eyebrow perming treatment that involves correcting the brow shape by setting the hairs in place using a chemical solution. In the first step, a cream is applied that breaks down bonds in the eyebrow hairs so they can be manipulated into a new position.</p>
-                </div>
-                <div class="padding-top-9em">
-                    <div class="big-title">LASH LIFT</div>
-                    <br>
-                    <p>The lash lift mimics the effect of an eyelash curler. It makes your lashes bend upwards, leaving them looking longer, and your eyes more open and bright</p>
-                </div>
-                <div class="padding-top-9em">
-                    <div class="big-title">BROW MICROBLADING / NANO TATTOOING * COMING SOON*</div>
-                    <br>
-                    <p>Nano Brow is a semi-permant tattoo technique designed for those who are eager to improve the look of their brows, but without having that penciled-on result that many alternatives can achieve. This treatment utilizes a special Nano Needle that draws on each individual hair so it emulates real eyebrow hair. This is what makes it look so natural.</p>
-                    <p>Microblading is a semi-permanent tattoo technique used to create the illusion of fuller brows and to improve the shape and symmetry.</p>
-                </div>
-                <div class="padding-top-9em">
-                    <div class="big-title">LASH EXENTION * COMING SOON*</div>
-                    <br>
-                    <p>A lash extension treatment involves applying individual synthetic lashes onto each natural eyelash to add extra length and volume. They're perfect for holidays, a big event or just perfect lashes every day.</p>
-                </div>
             </div>
-
-        </div>
-
-    </div>
-    {{-- <div class="section">
-        <div class="container w-dyn-list">
-            <div class="blog-list w-dyn-items" role="list">
-                <div role="listitem" class="procedure-item w-dyn-item">
-                    <a class="blog-link-block w-inline-block">
-                        <div class="">
-                            <img loading="lazy" src="/img/brow_hiw.png" alt="" />
+            <div data-animation="outin" data-duration="500" data-infinite="1" class="team-slider w-slider" role="region" aria-label="carousel">
+                <div class="w-slider-mask" id="w-slider-mask-0">
+                    <div class="team-slide w-slide" role="group" style="transform: translateX(0px); opacity: 1;">
+                        <div class="w-layout-grid grid-2-column align-center">
+                            <div class="team-slide-image-wrapper">
+                                <img src="/img/farsk-iv-radiance.png" alt="">
+                            </div>
+                            <div class="team-slide-content-wrapper">
+                                <div class="small-all-caps">RADIANCE IV DRIP</div>
+                                <p>refine | illuminate | refresh</p>
+                                <p>
+                                    Vitamin A, Vitamin E and Amino Acids. Vitamin C, Vitamin D, Thiamine (B1), Riboflavin (B2), Niacinamide (B3), Pyridoxine (B6), d-Panthneol (B5), Zinc, Selenium, L-Valine, L-Histidine, L-Isoleucine, L-Leucine, L-Phenylalanine, L- Threonine, L-Lysine, L-Methionine, L-Tryptophan, L-Alanine, Glycine, L-Arginine, L- Proline, L-Glutamic Acid, L-Serine, L-Aspartic Acid, L-Tyrosine.
+                                </p>
+                            </div>
                         </div>
-                    </a>
+                    </div>
                 </div>
-                <div role="listitem" class="procedure-item w-dyn-item">
-                    <a class="blog-link-block w-inline-block">
-                        <div class="">
-                            <img loading="lazy" src="/img/brow_at.png" alt="" />
+            </div>
+            <div data-animation="outin" data-duration="500" data-infinite="1" class="team-slider w-slider" role="region" aria-label="carousel">
+                <div class="w-slider-mask" id="w-slider-mask-0">
+                    <div class="team-slide w-slide" role="group" style="transform: translateX(0px); opacity: 1;">
+                        <div class="w-layout-grid grid-2-column align-center">
+                            <div class="team-slide-image-wrapper">
+                                <img src="/img/farsk-iv-energy.png" alt="">
+                            </div>
+                            <div class="team-slide-content-wrapper">
+                                <div class="small-all-caps">ENERGY IV DRIP</div>
+                                <p>energize | regenerate | strengthen</p>
+                                <p>
+                                    Magnesium, Vitamin B12 and Vitamin E. Thiamine (Vitamin B1), Riboflavin (Vitamin B2), Niacinamide (Vitamin B3), d-Panthenol (pro-Vitamin B5), Pyridoxine (Vitamin B6), Folic Acid (Vitamin B9), Ascorbic Acid (Vitamin C), Vitamin A, Vitamin D, Levocarnitine, Dextrose.
+                                </p>
+                            </div>
                         </div>
-                    </a>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="heading-wrapper-centered">
-            <div class="margin-top-3-5em">
-                <div style="opacity: 1;" class="button-wrapper">
-                    <a href="https://victoriacyr.myaestheticrecord.com/book/appointments/wg5Y0GWLknpmb9VZ9Kv4lNBAojMaJQ/clinics" target="_blank" rel="noopener noreferrer" class="button w-button">BOOK PROCEDURE</a>
+            <div data-animation="outin" data-duration="500" data-infinite="1" class="team-slider w-slider" role="region" aria-label="carousel">
+                <div class="w-slider-mask" id="w-slider-mask-0">
+                    <div class="team-slide w-slide" role="group" style="transform: translateX(0px); opacity: 1;">
+                        <div class="w-layout-grid grid-2-column align-center">
+                            <div class="team-slide-image-wrapper">
+                                <img src="/img/farsk-iv-boost.png" alt="">
+                            </div>
+                            <div class="team-slide-content-wrapper">
+                                <div class="small-all-caps">BOOST IV DRIP</div>
+                                <p>hydrate | replenish | enhance</p>
+                                <p>
+                                    Thiamine (Vitamin B1), Niacinamide (Vitamin B3) and Vitamin D. Magnesium, Sodium, Potassium, Chloride, Phosphate, Gluconate, Acetate, Riboflavin (B2), d- Panthenol (Vitamin B2), Pyridoxine (Vitamin B6), Ascorbic Acid (Vitamin C), Vitamin A, Vitamin E.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+
         </div>
-    </div> --}}
+    </section>
+    @include('partials.book-btn')
     {{-- services --}}
     @include('partials.services')
 

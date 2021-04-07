@@ -8,10 +8,12 @@
     <div class="section padding-top-9em">
         <div class="section">
             <div class="container">
-                <div class="heading-wrapper-centered">
-                    <h1>SLEEP APNEA + SNORING</h1>
+                <div class="contact-info-wrapper">
+                    <div id="w-node-b2551c3a-8701-fea8-c6df-cdb1726c253b-d48e3962" class="contact-info">
+                        <h4>@yield('title')</h4>
+                    </div>
                 </div>
-                <div class="big-title">WHAT’S SLEEP APNEA?</div>
+                <div class="big-title padding-top-6em">WHAT’S SLEEP APNEA?</div>
                 <br>
                 <p>Sleep apnea is a potentially serious sleep disorder in which breathing repeatedly stops and starts. If you snore loudly and feel tired even after a full night's sleep, you might have sleep apnea. The main types of sleep apnea are: Obstructive sleep apnea, the more common form that occurs when throat muscles relax.</p>
 
@@ -21,12 +23,17 @@
                     <p>The sound can come through the nose, mouth or a combination of the two and can occur during any stage of sleep. Those who sleep on their backs are more likely to snore. It may also occur when throat muscles relax from use of alcohol or other depressants. Congestion from a cold or allergies may also lead to temporary snoring.</p>
                 </div>
                 <div class="padding-top-6em">
-                    <div class="big-title">CONSIDER FONTANA NightLase® </div>
+                    <div class="big-title">FONTANA NightLase® </div>
                     <br>
                     <p>The NightLase therapy is a non-invasive, laser treatment for increasing the quality of a patient’s sleep by reducing the effects of sleep apnea and decreasing the amplitude of snoring. This is accomplished through a gentle, tightening effect on lax tissue in the oral mucosa tissue.</p>
                 </div>
+                <div class="team-slide-image-wrapper-2 padding-top-6em">
+                    <figure style="max-width: 1200px;" class="w-richtext-align-fullwidth w-richtext-figure-type-image">
+                        <iframe width="100%" height="600" src="https://www.youtube.com/embed/Md5KW6BvAig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </figure>
+                </div>
             </div>
-            <div class="container no-padding-mobile">
+            {{-- <div class="container no-padding-mobile">
                 <div class="inner-spacing">
                     <div data-duration-in="300" data-duration-out="100" class="faq-wrapper w-tabs">
                         <div class="faq-tabs-menu w-tab-menu" role="tablist">
@@ -106,9 +113,9 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
-
+        @include('partials.book-btn')
     {{-- services --}}
     @include('partials.services')
 

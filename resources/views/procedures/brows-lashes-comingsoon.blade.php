@@ -26,10 +26,12 @@
                     </div>
                 </div>
             </div>
-
-
-
-            {{-- Add images and sub img --}}
+            <div>
+                <div class="padding-top-9em"></div>
+                <figure style="max-width: 600px;" class="centered w-richtext-align-fullwidth w-richtext-figure-type-image">
+                    <div><img src="/img/brow-3.png" loading="lazy" alt="" /></div>
+                </figure>
+            </div>
             <div>
                 <div class="padding-top-9em">
                     <div class="big-title">BROW MICROBLADING / NANO TATTOOING * COMING SOON*</div>
@@ -47,33 +49,7 @@
         </div>
 
     </div>
-    {{-- <div class="section">
-        <div class="container w-dyn-list">
-            <div class="blog-list w-dyn-items" role="list">
-                <div role="listitem" class="procedure-item w-dyn-item">
-                    <a class="blog-link-block w-inline-block">
-                        <div class="">
-                            <img loading="lazy" src="/img/brow_hiw.png" alt="" />
-                        </div>
-                    </a>
-                </div>
-                <div role="listitem" class="procedure-item w-dyn-item">
-                    <a class="blog-link-block w-inline-block">
-                        <div class="">
-                            <img loading="lazy" src="/img/brow_at.png" alt="" />
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="heading-wrapper-centered">
-            <div class="margin-top-3-5em">
-                <div style="opacity: 1;" class="button-wrapper">
-                    <a href="https://victoriacyr.myaestheticrecord.com/book/appointments/wg5Y0GWLknpmb9VZ9Kv4lNBAojMaJQ/clinics" target="_blank" rel="noopener noreferrer" class="button w-button">BOOK PROCEDURE</a>
-                </div>
-            </div>
-        </div>
-    </div> --}}
+    @include('partials.book-btn')
     {{-- services --}}
     @include('partials.services')
 

@@ -1,5 +1,5 @@
 @extends('partials.master')
-@section('title', 'About')
+@section('title', 'Financing')
 @section('page', '5fa686c7b73fbb4dd28a52dd')
 
 @section('content')
@@ -7,7 +7,12 @@
     <div class="section no-padding-bottom">
         <div class="container">
             <div class="heading-wrapper-centered">
-                <h1>FINANCING</h1>
+                <div class="contact-info-wrapper">
+                    <div id="w-node-b2551c3a-8701-fea8-c6df-cdb1726c253b-d48e3962" class="contact-info">
+                        <h4>@yield('title')</h4>
+                    </div>
+                </div>
+                <br>
                 <p class="medium-width centered">Need Financing? We have options!</p>
             </div>
             <div class="inner-spacing">

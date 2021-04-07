@@ -5618,6 +5618,11 @@ blockquote {
     background-repeat: no-repeat;
     text-align: center;
 }
+.tab-link:hover{
+    background-color: #cfc7c0;
+    background-image: url("https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fa81fb20c681fc954202d40_arrow-active.svg");
+    color: #fff;
+}
 
 .tab-link.w--current {
     background-color: #cfc7c0;
@@ -6696,7 +6701,7 @@ blockquote {
 }
 
 .dropdown-link {
-    width: 33.333%;
+    width: 25%;
     margin-right: 0px;
     margin-left: 0px;
     padding: 1em 1.5em;
@@ -6839,9 +6844,11 @@ blockquote {
     height: 360px;
     margin-right: 5vw;
     margin-left: 5vw;
-    -webkit-transform: rotate(-2deg);
-    -ms-transform: rotate(-2deg);
-    transform: rotate(-2deg);
+}
+.team-slide-image-wrapper-2 {
+    position: relative;
+    margin-right: 5vw;
+    margin-left: 5vw;
 }
 
 .team-slide-content-wrapper {
@@ -7243,6 +7250,7 @@ blockquote {
     height: 100%;
     -o-object-fit: cover;
     object-fit: cover;
+    border-radius: 25px;
 }
 
 .hero3-secondary-image {
@@ -8698,12 +8706,19 @@ blockquote {
     }
 
     .dropdown-link {
-        width: 33.33333%;
+        width: 25%;
         font-size: 0.8em;
     }
 
     .team-slide-image-wrapper {
         margin-left: 0vw;
+    }
+    .booking-mob{
+        visibility: visible !important;
+    }
+    .booking-desk {
+        visibility: hidden !important;
+        display: none !important;
     }
 
     .contact-image-grid {
@@ -8715,7 +8730,7 @@ blockquote {
     }
 
     .dropdown-link-wrapper {
-        width: 100%;
+        width: 90%;
         margin-right: 0px;
         margin-left: 0px;
         -webkit-box-orient: horizontal;
@@ -9039,6 +9054,7 @@ blockquote {
 }
 
 @media screen and (max-width: 479px) {
+
     body {
         font-size: 3.5vw;
     }
@@ -9061,6 +9077,14 @@ blockquote {
         white-space: nowrap;
         padding-bottom: 1em;
     }
+    /* .hero3{
+        display: -webkit-box;
+    display: -moz-box;
+    display: box;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    box-orient: vertical;
+    } */
     .hero3-content-wrapper{
         padding-top: 2em;
     }

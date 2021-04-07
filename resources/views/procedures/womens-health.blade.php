@@ -8,163 +8,83 @@
         <div class="section">
             <div class="container">
                 <div class="heading-wrapper-centered">
-                    <h1>GYNECOLOGY TREATMENT</h1>
-                    <p class="medium-width centered">Gynecology treatments: stress and urge incontinence, vaginal tightening and rejuvenation.</p>
-                    <p>PRP “O-SHOT”</p>
-                    <p class="medium-width centered">PRP therapy helps to promote orgasm in women.</p>
-
-                </div>
-            </div>
-            <div class="container no-padding-mobile">
-                <div class="inner-spacing">
-                    <div data-duration-in="300" data-duration-out="100" class="faq-wrapper w-tabs">
-                        <div class="faq-tabs-menu w-tab-menu" role="tablist">
-                            <a data-w-tab="Tab 1" class="faq-tab-link w-inline-block w-tab-link w--current" id="w-tabs-0-data-w-tab-0" href="#w-tabs-0-data-w-pane-0" role="tab" aria-controls="w-tabs-0-data-w-pane-0" aria-selected="true">
-                                <div>Procedures</div>
-                            </a>
-                            <a data-w-tab="Tab 2" class="faq-tab-link w-inline-block w-tab-link" tabindex="-1" id="w-tabs-0-data-w-tab-1" href="#w-tabs-0-data-w-pane-1" role="tab" aria-controls="w-tabs-0-data-w-pane-1" aria-selected="false">
-                                <div>Benefits</div>
-                            </a>
+                    <div class="contact-info-wrapper">
+                        <div id="w-node-b2551c3a-8701-fea8-c6df-cdb1726c253b-d48e3962" class="contact-info">
+                            <h4>@yield('title')</h4>
                         </div>
-                        <div class="faq-tabs-content w-tab-content">
-                            <div data-w-tab="Tab 1" class="w-tab-pane w--tab-active" id="w-tabs-0-data-w-pane-0" role="tabpanel" aria-labelledby="w-tabs-0-data-w-tab-0">
-                                <div class="faq-content">
-                                    <div class="faq-title">
-                                        <h4>Can you really rejuvenate your sex life with the O-Shot® procedure?</h4>
-                                        <img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fabd83a6bfe49516e2d1161_menu_close_icon.svg" loading="lazy" alt="" class="faq-icon mobile-only" />
-                                    </div>
-                                    <div class="faq-answer">
-                                        <p>
-                                            The Orgasm “O” Shot, is a non-surgical treatment which pledges to increase sexual arousal and rejuvenate the vagina. Patients report stronger and more frequent orgasms, increased natural lubrication and greater arousal after having the procedure.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="faq-content">
-                                    <div class="faq-title">
-                                        <h4>Is the O-Shot a drug?</h4>
-                                        <img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fabd83a6bfe49516e2d1161_menu_close_icon.svg" loading="lazy" alt="" class="faq-icon mobile-only" />
-                                    </div>
-                                    <div class="faq-answer">
-                                        <p>
-                                            The O-Shot is not a drug. It’s a procedure performed in a medical office in which your own blood platelets are injected into vaginal tissue. The way it works is that platelets naturally attract your own stem cells to the injected area, and “generate healthier and more functional tissue in the areas of sexual response in the vagina (G-Spot, O-Spot, Skene’s Glands, urethra, and vaginal wall).”
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="faq-content">
-                                    <div class="faq-title">
-                                        <h4>How does the O-Shot cause vaginal rejuvenation?</h4>
-                                        <img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fabd83a6bfe49516e2d1161_menu_close_icon.svg" loading="lazy" alt="" class="faq-icon mobile-only" />
-                                    </div>
-                                    <div class="faq-answer">
-                                        <p>
-                                            The shot works by using “high quality” Platelet-Rich Plasma (PRP) produced from the patient’s own blood. The PRP contains cell regenerating growth factors which, when injected into specific areas of the vagina, trigger stem cells to increase blood flow and generate healthy tissue growth as well as help improve the vascularization of the area.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="faq-content">
-                                    <div class="faq-title">
-                                        <h4>That sounds complicated… what is the procedure like?</h4>
-                                        <img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fabd83a6bfe49516e2d1161_menu_close_icon.svg" loading="lazy" alt="" class="faq-icon mobile-only" />
-                                    </div>
-                                    <div class="faq-answer">
-                                        <p>
-                                            The O-Shot procedure begins with a simple blood draw from the arm. This sample is then put into a special centrifuge to produce the Platelet-Rich Plasma. Once the PRP is extracted from the blood, it is injected into the numbed area near the clitoris and upper vagina.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="faq-content">
-                                    <div class="faq-title">
-                                        <h4>Are there O-Shot Complications?</h4>
-                                        <img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fabd83a6bfe49516e2d1161_menu_close_icon.svg" loading="lazy" alt="" class="faq-icon mobile-only" />
-                                    </div>
-                                    <div class="faq-answer">
-                                        <p>
-                                            Most patients experience minimal to no side effects after receiving the orgasm shot. However, you may experience mild redness, swelling and/or numbness for the first few days to one week.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="faq-content">
-                                    <div class="faq-title">
-                                        <h4>Do I need more than one O-Shot?</h4>
-                                        <img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fabd83a6bfe49516e2d1161_menu_close_icon.svg" loading="lazy" alt="" class="faq-icon mobile-only" />
-                                    </div>
-                                    <div class="faq-answer">
-                                        <p>
-                                            Patients can just have one orgasm shot or come back for more, which will build on the existing results. 8 weeks is generally recommended between treatments to ensure the full effects of the first treatment have been felt. However, you can speak with a medical provider about the timeframe that works best for you.
-                                        </p>
-                                    </div>
-                                </div>
+                    </div>
+                    <div>
+                        <div class="padding-top-9em">
+                            <div class="big-title">PRP O-SHOT</div>
+                            <br>
+                            <p>
+                                Innovations in laser technology have produced a unique vaginal tightening treatment that is painless, non-invasive, and non-surgical. It emits infrared light and does not break the skin, allowing for a much more targeted, precise, and effective treatment with little to no risk of scarring, bleeding, or infection. Because er: YAG lasers are safe and relatively gentle, they are administered in several other medical applications.
+                            </p>
+                            <p>
+                                For women who want to improve the look and feel of their vaginal area but are reluctant to undergo surgery, IntimaLase™ non-surgical vaginal tightening provides most of the benefits and almost none of the risk of traditional vaginoplasty. Patients can expect a tighter vaginal canal, with more muscle tone and control, which can restore the sensitivity lost as a result of reduced friction during intercourse.
+                            </p>
+                            <p>
+                                Most patients report almost no discomfort, other than a warming sensation, eliminating the need for even local anesthesia.
+                            </p>
+                            <p>
+                                Non-surgical laser vaginal tightening requires no pre or post-operative care, and patients can return to their daily activities immediately regarding the procedure.
+                            </p>
+                            <div>
+                                <div class="padding-top-9em"></div>
+                                <figure style="max-width: 1200pxpx;" class="w-richtext-align-fullwidth w-richtext-figure-type-image">
+                                    <div><img src="/img/prp-oshot.png" loading="lazy" alt="" /></div>
+                                </figure>
                             </div>
-                            <div data-w-tab="Tab 2" class="w-tab-pane" id="w-tabs-0-data-w-pane-1" role="tabpanel" aria-labelledby="w-tabs-0-data-w-tab-1">
-                                <div class="faq-content">
-                                    <div class="faq-title">
-                                        <h4>What results can I expect?</h4>
-                                        <img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fabd83a6bfe49516e2d1161_menu_close_icon.svg" loading="lazy" alt="" class="faq-icon mobile-only" />
-                                    </div>
-                                    <div class="faq-answer">
-                                        <p>
-                                            The results can vary depending on the patient’s starting point. For example, factors such as age, medical conditions, and hormonal problems can determine the results. The injection is not a “magic stick” – 50 percent of women may experience instantaneous “wow effects” while the other half may just notice a marked improvement.
-                                        </p>
-                                        <p>
-                                            Patients have reported a range of positive effects from the shots including:
-                                        </p>
-                                        <ul>
-                                            <li>
-                                                Increased sensation.
-                                            </li>
-                                            <li>
-                                                Greater arousal from clitoral stimulation.
-                                            </li>
-                                            <li>
-                                                The ability to have an orgasm from penetrative sex when previously unable.
-                                            </li>
-                                            <li>
-                                                Younger and smoother skin of the vulva.
-                                            </li>
-                                            <li>
-                                                Stronger and more frequent orgasms.
-                                            </li>
-                                            <li>
-                                                Improvement in urinary incontinence.
-                                            </li>
-                                            <li>
-                                                Decreased pain for those experiencing painful sex.
-                                            </li>
-                                            <li>
-                                                Increased natural lubrication.
-                                            </li>
-                                            <li>
-                                                Increased ability to have a vaginal orgasm.
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="faq-content">
-                                    <div class="faq-title">
-                                        <h4>How long does it take before I see results from an O-Shot?</h4>
-                                        <img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fabd83a6bfe49516e2d1161_menu_close_icon.svg" loading="lazy" alt="" class="faq-icon mobile-only" />
-                                    </div>
-                                    <div class="faq-answer">
-                                        <p>You may experience an increase in sexual desire and pleasure immediately, but full results are usually enjoyed after 3 months. Generally, women will begin to experience heightened sensation in the first 3-7 days and new tissue will begin to develop over the next 3-9 weeks. This will peak around the 3-month mark.</p>
-
-                                    </div>
-                                </div>
-                                <div class="faq-content">
-                                    <div class="faq-title">
-                                        <h4>How long does the O Shot last?</h4>
-                                        <img src="https://assets.website-files.com/5f8d4e0da2afa35b4a26d78e/5fabd83a6bfe49516e2d1161_menu_close_icon.svg" loading="lazy" alt="" class="faq-icon mobile-only" />
-                                    </div>
-                                    <div class="faq-answer">
-                                        <p>O-Shot procedure results can vary depending on the patient, but they generally last between 14 and 18 months. On average, women repeat the procedure every 18 months</p>
-
-                                    </div>
-                                </div>
+                        </div>
+                        <div class="padding-top-9em">
+                            <div class="big-title">INTIMALASE</div>
+                            <br>
+                            <p>
+                                Innovations in laser technology have produced a unique vaginal tightening treatment that is painless, non-invasive, and non-surgical. It emits infrared light and does not break the skin, allowing for a much more targeted, precise, and effective treatment with little to no risk of scarring, bleeding, or infection. Because er: YAG lasers are safe and relatively gentle, they are administered in several other medical applications.
+                            </p>
+                            <p>
+                                For women who want to improve the look and feel of their vaginal area but are reluctant to undergo surgery, IntimaLase™ non-surgical vaginal tightening provides most of the benefits and almost none of the risk of traditional vaginoplasty. Patients can expect a tighter vaginal canal, with more muscle tone and control, which can restore the sensitivity lost as a result of reduced friction during intercourse.
+                            </p>
+                            <p>
+                                Most patients report almost no discomfort, other than a warming sensation, eliminating the need for even local anesthesia.
+                            </p>
+                            <p>
+                                Non-surgical laser vaginal tightening requires no pre or post-operative care, and patients can return to their daily activities immediately following the procedure.
+                            </p>
+                            <div>
+                                <div class="padding-top-9em"></div>
+                                <figure style="max-width: 1200px;" class="w-richtext-align-fullwidth w-richtext-figure-type-image">
+                                    <iframe width="100%" height="300" class="yt" src="//www.youtube.com/embed/9Uf0Z7J2QbI?wmode=transparent&amp;modestbranding=1&amp;showinfo=0&amp;autohide=1&amp;rel=0&amp;iv_load_policy=3" frameborder="0" allowfullscreen=""></iframe>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="padding-top-9em">
+                            <div class="big-title">INCONTILASE</div>
+                            <br>
+                            <p>
+                                Stress urinary incontinence can be caused by the stretching and weakening of the ligaments, nerves, and pelvic floor muscles that normally work together to support the bladder and keep the urethra closed.
+                            </p>
+                            <p>
+                                Stress urinary incontinence can make patients feel highly self-conscious and embarrassed. Additionally, skin that comes in contact with urine often becomes irritated, so patients much always take precautions such as using incontinence pads. This can take a toll on self-confidence.
+                            </p>
+                            <p>
+                                IncontiLase is a specialized laser therapy to help treat moderate urinary incontinence. The Er. YAG laser treatment repairs tighten vaginal tissue and support the bladder. The non-ablative lasers will heat the target tissue without decimating them like other procedures. The process effectively signals your body to produce more collagen, which will gently resurface.
+                            </p>
+                            <p>
+                                For a majority of patients, a single session is sufficient to alleviate mild or even moderate stress urinary incontinence. If needed, the treatment may be repeated after one month. No special pre-op preparations or post-op precautions are necessary. After treatment, you may immediately return to your normal activities. The procedure is non-surgical and virtually painless. Recovery is extremely quick without the need for the use of analgesics or antibiotics, patients can immediately resume their normal activities after their IncontiLase treatments.
+                            </p>
+                            <div>
+                                <div class="padding-top-9em"></div>
+                                <figure style="max-width: 1200pxpx;" class="w-richtext-align-fullwidth w-richtext-figure-type-image">
+                                    <iframe width="100%" height="300" class="yt" src="//www.youtube.com/embed/P3SnLZUeWC8?wmode=transparent&amp;modestbranding=1&amp;showinfo=0&amp;autohide=1&amp;rel=0&amp;iv_load_policy=3" frameborder="0" allowfullscreen=""></iframe>
+                                </figure>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        @include('partials.book-btn')
     </div>
     {{-- services --}}
     @include('partials.services')

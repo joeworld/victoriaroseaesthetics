@@ -16,7 +16,7 @@
                 <div id="w-node-a2ba6d66-caa4-9212-fec4-7870f289575c-d48e3962" class="contact-info">
                     <img  loading="lazy" alt="" class="contact-info-icon" />
                     <div class="small-all-caps">Call us</div>
-                    <a href="#" class="big-link">905-903-3300</a>
+                    <a href="#" class="big-link">905.903.3300</a>
                 </div>
             </div>
         </div>
