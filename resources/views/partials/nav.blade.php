@@ -62,7 +62,7 @@
                 <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown">
                     <a href="/financing" class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">FINANCING</a>
                 </div>
-                <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown booking-mob" style="visibility: hidden;">
+                <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown booking-mob" style="display: none;">
                     <a href="https://victoriacyr.myaestheticrecord.com/book/appointments/wg5Y0GWLknpmb9VZ9Kv4lNBAojMaJQ/clinics" target="_blank"  class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">BOOK NOW</a>
                 </div>
             </div>
