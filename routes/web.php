@@ -87,6 +87,9 @@ Route::get('/services/packages', function () {
 Route::get('/services/prp', function () {
     return view('procedures/prp');
 });
+Route::get('/services/weight-loss-energy', function () {
+    return view('procedures/weight-loss-energy');
+});
 Route::get('/services/sleep-apnea-snoring', function () {
     return view('procedures/sleep-apnea-snoring');
 });

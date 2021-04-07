@@ -29,12 +29,12 @@
                             <a data-category="Injectables" href="/services/prp" class="dropdown-link w-dropdown-link" tabindex="0">PRP Injections</a>
                             <a data-category="Laser Therapy" href="/services/skin-resurfacing" class="dropdown-link w-dropdown-link" tabindex="0">Skin Resurfacing</a>
                             <a data-category="Beauty Bar" href="/services/brows-lashes" class="dropdown-link w-dropdown-link" tabindex="0">Brows + Lashes</a>
-                            <a data-category="Wellness Bar"href="/services/sleep-apnea-snoring" class="dropdown-link w-dropdown-link" tabindex="0">Sleep Apnea + Snoring</a>
+                            <a data-category="Wellness Bar" href="/services/sleep-apnea-snoring" class="dropdown-link w-dropdown-link" tabindex="0">Sleep Apnea + Snoring</a>
 
                             <a data-category="Injectables" href="/services/sculptra-butt-lift" class="dropdown-link w-dropdown-link" tabindex="0">Sculptra Butt Lift</a>
                             <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
                             <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
-                            <a data-category="Wellness Bar" href="javascript:void(0)" class="dropdown-link w-dropdown-link" tabindex="0" id="coming-soon" onclick="this.innerHTML = 'Coming Soon'">Naturopathic Medicine</a>
+                            <a data-category="Wellness Bar" href="/services/weight-loss-energy" class="dropdown-link w-dropdown-link" tabindex="0">Weight Loss & Energy Shot</a>
 
                             <a data-category="Injectables" href="/services/lipolysis" class="dropdown-link w-dropdown-link" tabindex="0">Lipolysis</a>
                             <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
