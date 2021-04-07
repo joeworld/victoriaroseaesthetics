@@ -5509,9 +5509,9 @@ blockquote {
     margin-bottom: 0.5em;
 }
 
-.heading-wrapper {
+/* .heading-wrapper {
     padding-bottom: 3.5em;
-}
+} */
 
 .heading-wrapper.centered {
     text-align: center;
@@ -9909,10 +9909,10 @@ blockquote {
 }
 
 #w-node-e3c51108-8889-3962-1315-f8e215833210-d48e3962 {
-    -webkit-align-self: center;
-    -ms-flex-item-align: center;
-    -ms-grid-row-align: center;
-    align-self: center;
+    -webkit-align-self: flex-start;
+    -ms-flex-item-align: flex-start;
+    -ms-grid-row-align: flex-start;
+    align-self: flex-start;
 }
 
 #w-node-e3c51108-8889-3962-1315-f8e215833210-b4321b77 {

@@ -1,5 +1,5 @@
 @extends('partials.master')
-@section('title', 'About')
+@section('title', 'Contact')
 @section('page', '5fa686c7b73fbb4dd28a52dd')
 
 @section('content')
@@ -24,7 +24,7 @@
     <div class="section">
         <div class="container">
             <div class="inner-spacing">
-                <div class="heading-wrapper medium-width"><h3>If you have any question fill out the form. We’ll get back to you shortly.</h3></div>
+                <div class="heading-wrapper medium-width"><h3>Let's chat</h3></div>
                 <div class="w-layout-grid grid-2-column">
                     <div id="w-node-e3c51108-8889-3962-1315-f8e215833210-d48e3962" class="contact-form-grid">
                         <div class="w-form">
@@ -51,7 +51,7 @@
                     </div>
                     <div class="contact-image-grid">
                         {{-- <img src="/img/victoria+rose+aesthetics.jpeg" loading="lazy" alt="" class="contact-image" width="208.5" /> --}}
-                        <img src="/img/victoria+rose+aesthetics.jpeg" loading="lazy" alt="" class="contact-image" width="408.5" />
+                        <img src="/img/contact.png" loading="lazy" alt="" class="contact-image" width="408.5" />
                     </div>
                 </div>
             </div>

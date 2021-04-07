@@ -57,6 +57,9 @@ Route::get('/services/dermal-fillers', function () {
 Route::get('/services/facials', function () {
     return view('procedures/facials');
 });
+Route::get('/services/microneedling', function () {
+    return view('procedures/microneedling');
+});
 Route::get('/services/iv-therapy', function () {
     return view('procedures/iv-therapy');
 });

@@ -18,22 +18,22 @@
 
                             <a data-category="Injectables" href="/services/botox-nuceiva" class="dropdown-link w-dropdown-link" tabindex="0">Botox/Nuceiva</a>
                             <a data-category="Laser Therapy" href="/services/acne-scar-revision" class="dropdown-link w-dropdown-link" tabindex="0">Acne Scar Revision</a>
-                            <a data-category="Beauty Bar" href="/services/mani-pedi" class="dropdown-link w-dropdown-link" tabindex="0">Mani + Pedi</a>
+                            <a data-category="Beauty Bar" href="/services/facials" class="dropdown-link w-dropdown-link" tabindex="0">Facials</a>
                             <a data-category="Wellness Bar" href="/services/womens-health" class="dropdown-link w-dropdown-link" tabindex="0">Women's Health</a>
 
                             <a data-category="Injectables" href="/services/dermal-fillers" class="dropdown-link w-dropdown-link" tabindex="0">Dermal Fillers</a>
                             <a data-category="Laser Therapy" href="/services/laser-hair-removal" class="dropdown-link w-dropdown-link" tabindex="0">Laser Hair Removal</a>
-                            <a data-category="Beauty Bar" href="/services/facials" class="dropdown-link w-dropdown-link" tabindex="0">Facials</a>
+                            <a data-category="Beauty Bar" href="/services/microneedling" class="dropdown-link w-dropdown-link" tabindex="0">Microneedling</a>
                             <a data-category="Wellness Bar" href="/services/iv-therapy"  class="dropdown-link w-dropdown-link" tabindex="0">IV Therapy</a>
 
                             <a data-category="Injectables" href="/services/prp" class="dropdown-link w-dropdown-link" tabindex="0">PRP Injections</a>
                             <a data-category="Laser Therapy" href="/services/skin-resurfacing" class="dropdown-link w-dropdown-link" tabindex="0">Skin Resurfacing</a>
-                            <a data-category="Beauty Bar" href="/services/brows-lashes" class="dropdown-link w-dropdown-link" tabindex="0">Brows + Lashes</a>
+                            <a data-category="Beauty Bar" href="/services/mani-pedi" class="dropdown-link w-dropdown-link" tabindex="0">Mani + Pedi</a>
                             <a data-category="Wellness Bar" href="/services/sleep-apnea-snoring" class="dropdown-link w-dropdown-link" tabindex="0">Sleep Apnea + Snoring</a>
 
                             <a data-category="Injectables" href="/services/sculptra-butt-lift" class="dropdown-link w-dropdown-link" tabindex="0">Sculptra Butt Lift</a>
                             <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
-                            <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
+                            <a data-category="Beauty Bar" href="/services/brows-lashes" class="dropdown-link w-dropdown-link" tabindex="0">Brows + Lashes</a>
                             <a data-category="Wellness Bar" href="/services/weight-loss-energy" class="dropdown-link w-dropdown-link" tabindex="0">Weight Loss & Energy Shot</a>
 
                             <a data-category="Injectables" href="/services/lipolysis" class="dropdown-link w-dropdown-link" tabindex="0">Lipolysis</a>
