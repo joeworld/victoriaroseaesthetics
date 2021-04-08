@@ -41,7 +41,14 @@
                 </div>
                 <div id="w-node-_8449cbd9-7126-ef1b-e7ee-a76cd55e5dd1-b826d78f" class="grid-image-block-2 padding-left">
                     <div class="team-slide-image-wrapper-2">
-                        <img src="/img/facials-5.png" alt="">
+                        <video
+                            src="/video/victoriarose.aesthetics_igtv_2388762215295282678.mp4"
+                            width="400px"
+                            autoplay=""
+                            loop=""
+                            muted=""
+                            playsinline=""
+                        ></video>
                     </div>
                 </div>
             </div>
