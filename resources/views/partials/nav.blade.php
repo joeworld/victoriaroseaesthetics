@@ -19,7 +19,7 @@
                             <a data-category="Injectables" href="/services/botox-nuceiva" class="dropdown-link w-dropdown-link" tabindex="0">Botox/Nuceiva</a>
                             <a data-category="Laser Therapy" href="/services/acne-scar-revision" class="dropdown-link w-dropdown-link" tabindex="0">Acne Scar Revision</a>
                             <a data-category="Beauty Bar" href="/services/facials" class="dropdown-link w-dropdown-link" tabindex="0">Facials</a>
-                            <a data-category="Wellness Bar" href="/services/womens-health" class="dropdown-link w-dropdown-link" tabindex="0">Women's Health</a>
+                            <a data-category="Wellness Bar" href="/services/womens-health-prp-o-shot" class="dropdown-link w-dropdown-link" tabindex="0">Women's Health</a>
 
                             <a data-category="Injectables" href="/services/dermal-fillers" class="dropdown-link w-dropdown-link" tabindex="0">Dermal Fillers</a>
                             <a data-category="Laser Therapy" href="/services/laser-hair-removal" class="dropdown-link w-dropdown-link" tabindex="0">Laser Hair Removal</a>

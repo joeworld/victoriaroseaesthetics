@@ -96,8 +96,14 @@ Route::get('/services/weight-loss-energy', function () {
 Route::get('/services/sleep-apnea-snoring', function () {
     return view('procedures/sleep-apnea-snoring');
 });
-Route::get('/services/womens-health', function () {
-    return view('procedures/womens-health');
+Route::get('/services/womens-health-prp-o-shot', function () {
+    return view('procedures/womens-health-prp-o-shot');
+});
+Route::get('/services/womens-health-stress-urinary-incontinence', function () {
+    return view('procedures/womens-health-stress-urinary-incontinence');
+});
+Route::get('/services/womens-health-vaginal-tightening', function () {
+    return view('procedures/womens-health-vaginal-tightening');
 });
 Route::get('/services/sculptra-butt-lift', function () {
     return view('procedures/sculptra-butt-lift');

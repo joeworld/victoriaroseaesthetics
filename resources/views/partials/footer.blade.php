@@ -20,7 +20,7 @@
                         <a class="footer-link light hours-op">Tuesday: 10:00am - 6:00pm</a>
                         <a class="footer-link light hours-op">Wednesday: 10:00am - 6:00pm</a>
                         <a class="footer-link light hours-op">Thursday: 12:00pm - 8:00pm</a>
-                        <a class="footer-link light hours-op">Friday: 10:00pm - 6:00pm</a>
+                        <a class="footer-link light hours-op">Friday: 10:00am - 6:00pm</a>
                         <a class="footer-link light hours-op">Saturday: 10:00am - 3:00pm</a>
 
                     </div>

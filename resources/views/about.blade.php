@@ -51,7 +51,7 @@
 
                 <div class="margin-top-3-5em">
                     <div style="opacity: 1;" class="button-wrapper">
-                        <a href="/contact" target="_blank" rel="noopener noreferrer" class="button w-button">I WANT THE BEST AND I DESERVE IT</a>
+                        <a href="/contact" target="_blank" rel="noopener noreferrer" class="button w-button">I WANT THIS, I DESERVE IT</a>
                     </div>
                 </div>
             </div>

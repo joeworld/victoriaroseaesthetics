@@ -4,18 +4,18 @@
 
 @section('content')
 
-    <div class="section padding-top-9em">
+    <div class="section padding-top-9em no-bottom-padding">
         <div class="contact-info-wrapper">
             <div class="vertical-divider-line"></div>
             <div class="w-layout-grid grid-2-column">
                 <div id="w-node-b2551c3a-8701-fea8-c6df-cdb1726c253b-d48e3962" class="contact-info">
                     <img loading="lazy" alt="" class="contact-info-icon" />
-                    <div class="small-all-caps">e-mail us</div>
+                    <div class="small-all-caps">e-mail</div>
                     <a href="#" class="big-link">info@victoriaroseaesthetics.ca</a>
                 </div>
                 <div id="w-node-a2ba6d66-caa4-9212-fec4-7870f289575c-d48e3962" class="contact-info">
                     <img  loading="lazy" alt="" class="contact-info-icon" />
-                    <div class="small-all-caps">Call us</div>
+                    <div class="small-all-caps">Call</div>
                     <a href="#" class="big-link">905.903.3300</a>
                 </div>
             </div>
@@ -24,7 +24,7 @@
     <div class="section">
         <div class="container">
             <div class="inner-spacing">
-                <div class="heading-wrapper medium-width"><h3>Let's chat</h3></div>
+                <div class="heading-wrapper medium-width"><h3>Let's Chat</h3></div>
                 <div class="w-layout-grid grid-2-column">
                     <div id="w-node-e3c51108-8889-3962-1315-f8e215833210-d48e3962" class="contact-form-grid">
                         <div class="w-form">
