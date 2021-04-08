@@ -32,12 +32,12 @@
                             <a data-category="Wellness Bar" href="/services/sleep-apnea-snoring" class="dropdown-link w-dropdown-link" tabindex="0">Sleep Apnea + Snoring</a>
 
                             <a data-category="Injectables" href="/services/sculptra-butt-lift" class="dropdown-link w-dropdown-link" tabindex="0">Sculptra Butt Lift</a>
-                            <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
+                            <a data-category="Laser Bar" href="/services/four-d-facelif" class="dropdown-link w-dropdown-link" tabindex="0">4D Facelift</a>
                             <a data-category="Beauty Bar" href="/services/brows-lashes" class="dropdown-link w-dropdown-link" tabindex="0">Brows + Lashes</a>
                             <a data-category="Wellness Bar" href="/services/weight-loss-energy" class="dropdown-link w-dropdown-link" tabindex="0">Weight Loss & Energy Shot</a>
 
                             <a data-category="Injectables" href="/services/lipolysis" class="dropdown-link w-dropdown-link" tabindex="0">Lipolysis</a>
-                            <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
+                            <a data-category="Laser Bar" href="/services/tightsculpting" class="dropdown-link w-dropdown-link" tabindex="0">TightSculpting</a>
                             <a class="dropdown-link w-dropdown-link" tabindex="0"></a>
                             <a data-category="Wellness Bar" href="javascript:void(0)"  class="dropdown-link w-dropdown-link" tabindex="0" id="coming-soon" onclick="this.innerHTML = 'Coming Soon'">Massage Therapy</a>
 

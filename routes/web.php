@@ -117,6 +117,12 @@ Route::get('/services/laser-hair-removal', function () {
 Route::get('/services/skin-resurfacing', function () {
     return view('procedures/skin-resurfacing');
 });
+Route::get('/services/four-d-facelif', function () {
+    return view('procedures/four-d-facelift');
+});
+Route::get('/services/tightsculpting', function () {
+    return view('procedures/tightsculpting');
+});
 
 
 // products
