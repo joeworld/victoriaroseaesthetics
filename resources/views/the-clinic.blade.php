@@ -8,7 +8,7 @@
         <div class="container">
             <div class="heading-wrapper-centered">
                 <p>
-                    Victoria Rose Aesthetic is based in Pickering focuses on curating a full range of luxury and medical aesthetics treatments, to fully experience opulence and rejuvenation.
+                    Victoria Rose Aesthetics is a Medical Spa & Wellness Clinic dedicated to offering a five-star luxury experience that will help you live your best life and age gracefully with the wellness and confidence that comes from natural-looking, beautiful results.
                 </p>
             </div>
             <div class="w-dyn-list padding-top-2em">
