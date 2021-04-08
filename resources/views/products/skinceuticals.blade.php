@@ -1,5 +1,5 @@
 @extends('partials.master')
-@section('title', 'Skinceuticals')
+@section('title', 'SkinCeuticals')
 @section('page', '5fa686c7b73fbb4dd28a52dd')
 
 @section('content')
@@ -40,6 +40,7 @@
                     />
                 </div>
                 <div class="product-description-content-wrapper">
+                    <h3 class="product-title">@yield('title')</h3>
                     <div class="w-dyn-list">
                         <div role="list" class="w-dyn-items">
                             <div role="listitem" class="w-dyn-item">
@@ -47,7 +48,7 @@
                             </div>
                         </div>
                     </div>
-                    <h3 class="product-title">@yield('title')</h3>
+                    <br>
                     <p>
                         Our mission is to improve skin health. Dedicated to this purpose, we make one simple promise—to provide advanced skincare backed by science.
                     </p>

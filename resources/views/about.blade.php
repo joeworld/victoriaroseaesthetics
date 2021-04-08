@@ -5,7 +5,7 @@
 @section('content')
 
 
-    <div class="section">
+    <div class="section no-bottom-padding">
         <div class="container">
             <div class="inner-spacing">
                 <div class="heading-wrapper centered">
