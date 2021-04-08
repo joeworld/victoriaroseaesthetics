@@ -28,12 +28,13 @@
                 <div class="w-layout-grid grid-2-column">
                     <div id="w-node-e3c51108-8889-3962-1315-f8e215833210-d48e3962" class="contact-form-grid">
                         <div class="w-form">
-                            <form id="email-form" name="email-form" data-name="Email Form">
+                            <form id="email-form" name="email-form" data-name="Email Form" action="/form/1" method="POST">
+                                @csrf
                                 <div class="form-input">
                                     <label for="name">Name &amp;&nbsp;Surname</label><input type="text" class="text-field w-input" maxlength="256" name="name" data-name="" placeholder="" id="name" required="" />
                                 </div>
                                 <div class="form-input">
-                                    <label for="Name-3">Email</label><input type="email" class="text-field w-input" maxlength="256" name="Name" data-name="Name" placeholder="" id="Name" required="" />
+                                    <label for="Name-3">Email</label><input type="email" class="text-field w-input" maxlength="256" name="email-2" data-name="Name" placeholder="" id="email-2" required="" />
                                 </div>
                                 <div class="form-input"><label for="Phone">Phone Number</label><input type="tel" class="text-field w-input" maxlength="256" name="Phone" data-name="Phone" placeholder="" id="Phone" /></div>
                                 <div class="form-input">
@@ -45,9 +46,13 @@
                                     </div>
                                 </div>
                             </form>
-                            <div class="success-message w-form-done"><div>Thank you! Your submission has been received!</div></div>
-                            <div class="error-message w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div>
+
                         </div>
+                        @if(session()->has('message'))
+                            <div class="alert alert-success">
+                                {{ session()->get('message') }}
+                            </div>
+                        @endif
                     </div>
                     <div class="contact-image-grid">
                         {{-- <img src="/img/victoria+rose+aesthetics.jpeg" loading="lazy" alt="" class="contact-image" width="208.5" /> --}}

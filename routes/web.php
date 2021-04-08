@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\MailController;
 
 /*
 |--------------------------------------------------------------------------
@@ -39,6 +40,8 @@ Route::get('/the-clinic', function () {
 Route::get('/procedures', function () {
     return view('procedures/botox-nuceiva');
 });
+
+Route::post('/form/1', [MailController::class, 'store']);
 
 // procedures
 
