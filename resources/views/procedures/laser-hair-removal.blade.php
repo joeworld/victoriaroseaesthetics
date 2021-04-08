@@ -42,9 +42,6 @@
         </div>
     </div>
 
-
-
-
     {{-- services --}}
     @include('partials.services')
 

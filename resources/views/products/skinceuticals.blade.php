@@ -58,7 +58,6 @@
                     <p>
                         Made in the USA, our clinical skincare is used by dermatologists, plastic surgeons, and medi-spas for daily homecare and to complement aesthetic procedures. We formulate to correct signs of aging, protect healthy skin, and prevent future damage.
                     </p>
-
                     <div class="padding-top-9em">
                         <a href="/contact">
                             <div class="w-commerce-commerceaddtocartbutton button full-width">
@@ -66,7 +65,6 @@
                         </a>
 
                     </div>
-
                 </div>
                 <div class="product-description-images-mobile">
                     <img
