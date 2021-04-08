@@ -32,6 +32,9 @@ Route::get('/contact', function () {
 Route::get('/financing', function () {
     return view('financing');
 });
+Route::get('/the-clinic', function () {
+    return view('the-clinic');
+});
 
 Route::get('/procedures', function () {
     return view('procedures/botox-nuceiva');

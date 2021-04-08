@@ -92,7 +92,7 @@
     </div>
 
     {{-- clinic photos --}}
-    <div class="section">
+    {{-- <div class="section">
         <div class="container">
             <div class="heading-wrapper no-padding-bottom">
                 <h2>The Clinic</h2>
@@ -198,12 +198,7 @@
                 </div>
             </div>
         </div>
-    </div>
-
-
-
-
-
+    </div> --}}
 
     {{-- instagram --}}
     @include('partials.instagram')

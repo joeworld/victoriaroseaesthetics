@@ -91,7 +91,10 @@
         <div role="navigation" class="nav-right w-nav-menu">
             <div>
                 <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown">
-                    <a href="javascript:void(0)" class="dropdown-toggle first w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" onclick="this.innerHTML = 'Coming Soon'" tabindex="0">Promotions</a>
+                    <a href="/the-clinic" class="dropdown-toggle first w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">THE CLINIC</a>
+                </div>
+                <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown">
+                    <a href="javascript:void(0)" class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" onclick="this.innerHTML = 'Coming Soon'" tabindex="0">Promotions</a>
                 </div>
                 <div data-hover="" data-delay="100" class="nav-dropdown w-dropdown">
                     <a href="/contact" class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">CONTACT</a>
