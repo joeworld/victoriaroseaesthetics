@@ -521,6 +521,9 @@ textarea.w-input, textarea.w-select {
 .no-bottom-padding{
     padding-bottom:0em !important;
 }
+.no-top-padding{
+    padding-top:0em !important;
+}
 
 .w-radio-input {
     margin: 4px 0 0;

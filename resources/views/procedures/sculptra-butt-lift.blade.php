@@ -16,7 +16,7 @@
         </div>
     </div>
 
-    <div class="section">
+    <div class="section no-top-padding">
         <div class="container">
             <div class="w-layout-grid grid-2-column">
                 <div id="w-node-c6f28ec5-e2b7-2034-7b7a-104e024c9d1b-b826d78f" class="grid-content">

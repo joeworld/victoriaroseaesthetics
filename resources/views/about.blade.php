@@ -72,7 +72,7 @@
                     </ul>
                     <div class="margin-top-3-5em">
                         <div style="opacity: 1;" class="button-wrapper">
-                            <a href="/about" class="button w-button">Contact Victoria</a>
+                            <a href="/contact" class="button w-button">Contact Victoria</a>
                             </div>
                         </div>
                     </div>
