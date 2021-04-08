@@ -3,7 +3,7 @@
 @section('page', '5fa686c7b73fbb4dd28a52dd')
 
 @section('content')
-    <div class="section padding-top-9em">
+    <div class="section padding-top-6em">
         <div class="w-container">
             <div class="contact-info-wrapper">
                 <div id="w-node-b2551c3a-8701-fea8-c6df-cdb1726c253b-d48e3962" class="contact-info">
@@ -11,7 +11,7 @@
                 </div>
             </div>
             <div>
-                <div class="padding-top-9em">
+                <div class="padding-top-6em">
                     <div class="big-title">FACIAL VOLUME RESTORATION & AUGMENTATION</div>
                     <br>
                     <p>Fillers are extremely effective when used in conjunction with Botox, but the two products work very differently in how they reduce the detrimental effects of time. Where Botox is injected to reduce the effects of the muscles that cause wrinkles, Fillers work to replace the fullness of the skin (i.e. facial volume loss).</p>

@@ -4,7 +4,7 @@
 
 @section('content')
 
-    <div class="section padding-top-9em">
+    <div class="section padding-top-6em">
         <div class="w-container">
             <div class="contact-info-wrapper">
                 <div id="w-node-b2551c3a-8701-fea8-c6df-cdb1726c253b-d48e3962" class="contact-info">
@@ -12,7 +12,7 @@
                 </div>
             </div>
             <div>
-                <div class="padding-top-9em">
+                <div class="padding-top-6em">
                     <div class="big-title">ANTI-WRINKLE INJECTIONS</div>
                     <br>
                     <p>Over time we all develop habitual facial expressions that form lines and then wrinkles in our skin. Neuromodulators (i.e. Botox, Nuceiva) are a treatment for wrinkles caused by repeated movements. The most commonly treated areas include:- Lines around the eyes, known as crow’s feet, caused by squinting or smiling- The horizontal lines across the forehead caused by raising the eyebrows- The lines and folding of the skin between the eyebrows (glabella) caused by frowning- The downward turning of the mouth (DAO)These actions are considered minor when thought of as a one-time gesture because skin, especially when young, is elastic in nature. However, like water flowing through a canyon, over time these gestures cause expressions to become wrinkles, and the elasticity in our skin fades, resulting in permanent features of the face that we associate with advancing age.Botox is a safe procedure that produces a more rested, smooth and younger version of you. </p>

@@ -3,7 +3,7 @@
 @section('page', '5fa686c7b73fbb4dd28a52dd')
 
 @section('content')
-    <div class="section padding-top-9em">
+    <div class="section padding-top-6em no-bottom-padding">
         <div class="w-container">
             <div class="contact-info-wrapper">
                 <div id="w-node-b2551c3a-8701-fea8-c6df-cdb1726c253b-d48e3962" class="contact-info">
@@ -11,7 +11,7 @@
                 </div>
             </div>
             <div>
-                <div class="padding-top-9em">
+                <div class="padding-top-6em">
                     <div class="big-title">FAT DISSOLVING INJECTIONS</div>
                     <br>
                     <p>LIPOLYSIS (Fat Dissolving) is an injectable treatment that is used to reduce submental fullness, commonly referred to as a "double chin." If you are bothered by stubborn fat under your chin, that diet and exercise can’t seem to address, this quick and effective injection can help improve the appearance of the area and reveal a more youthful sculpted jawline/chin. The treatment is appealing because it's minimally invasive and doesn't require anesthesia or time away from work and other responsibilities.</p>

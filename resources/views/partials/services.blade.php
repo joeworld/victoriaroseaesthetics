@@ -95,7 +95,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="container">
+                            {{-- <div class="container">
                                 <div class="heading-wrapper-centered no-padding-bottom">
                                     <div class="margin-top-3-5em">
                                         <div class="button-wrapper">
@@ -103,7 +103,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                         <div data-w-tab="Tab 2" class="w-tab-pane w--tab-active" id="w-tabs-0-data-w-pane-1" role="tabpanel" aria-labelledby="w-tabs-0-data-w-tab-1" style="opacity: 1; transition: opacity 300ms ease 0s;">
                             <div class="w-dyn-list">

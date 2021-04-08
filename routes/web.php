@@ -54,11 +54,20 @@ Route::get('/services/brows-lashes-all', function () {
 Route::get('/services/dermal-fillers', function () {
     return view('procedures/dermal-fillers');
 });
-Route::get('/services/facials', function () {
-    return view('procedures/facials');
+Route::get('/services/bela-md-facial', function () {
+    return view('procedures/bela-md-facial');
 });
-Route::get('/services/microneedling', function () {
-    return view('procedures/microneedling');
+Route::get('/services/alumier-glow-peel', function () {
+    return view('procedures/alumier-glow-peel');
+});
+Route::get('/services/signature-luxury-facial', function () {
+    return view('procedures/signature-luxury-facial');
+});
+Route::get('/services/prp-microneedling', function () {
+    return view('procedures/prp-microneedling');
+});
+Route::get('/services/skinpen-microneedling', function () {
+    return view('procedures/skinpen-microneedling');
 });
 Route::get('/services/iv-therapy', function () {
     return view('procedures/iv-therapy');

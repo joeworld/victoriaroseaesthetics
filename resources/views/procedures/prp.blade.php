@@ -3,7 +3,7 @@
 @section('page', '5fa686c7b73fbb4dd28a52dd')
 
 @section('content')
-    <div class="section padding-top-9em">
+    <div class="section padding-top-6em no-bottom-padding">
         <div class="w-container">
             <div class="contact-info-wrapper">
                 <div id="w-node-b2551c3a-8701-fea8-c6df-cdb1726c253b-d48e3962" class="contact-info">
