@@ -18,6 +18,86 @@
                             <div class="product-image-wrapper">
                                 <img
                                     loading="lazy"
+                                    src="/img/the-clinic-7.jpg"
+                                    alt=""
+                                    class="grid-image"
+                                />
+                            </div>
+                        </a>
+                    </div>
+                    <div role="listitem" class="w-dyn-item">
+                        <a class="grid-link-block w-inline-block">
+                            <div class="product-image-wrapper">
+                                <img
+                                    loading="lazy"
+                                    src="/img/the-clinic-8.jpg"
+                                    alt=""
+                                    class="grid-image"
+                                />
+                            </div>
+                        </a>
+                    </div>
+                    <div role="listitem" class="w-dyn-item">
+                        <a class="grid-link-block w-inline-block">
+                            <div class="product-image-wrapper">
+                                <img
+                                    loading="lazy"
+                                    src="/img/the-clinic-9.jpg"
+                                    alt=""
+                                    class="grid-image"
+                                />
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="w-dyn-list padding-top-2em">
+                <div role="list" class="product-grid w-dyn-items">
+                    <div role="listitem" class="w-dyn-item">
+                        <a class="grid-link-block w-inline-block">
+                            <div class="product-image-wrapper">
+                                <img
+                                    loading="lazy"
+                                    src="/img/the-clinic-10.jpg"
+                                    alt=""
+                                    class="grid-image"
+                                />
+                            </div>
+                        </a>
+                    </div>
+                    <div role="listitem" class="w-dyn-item">
+                        <a class="grid-link-block w-inline-block">
+                            <div class="product-image-wrapper">
+                                <img
+                                    loading="lazy"
+                                    src="/img/the-clinic-11.jpg"
+                                    alt=""
+                                    class="grid-image"
+                                />
+                            </div>
+                        </a>
+                    </div>
+                    <div role="listitem" class="w-dyn-item">
+                        <a class="grid-link-block w-inline-block">
+                            <div class="product-image-wrapper">
+                                <img
+                                    loading="lazy"
+                                    src="/img/the-clinic-12.jpg"
+                                    alt=""
+                                    class="grid-image"
+                                />
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="w-dyn-list padding-top-2em">
+                <div role="list" class="product-grid w-dyn-items">
+                    <div role="listitem" class="w-dyn-item">
+                        <a class="grid-link-block w-inline-block">
+                            <div class="product-image-wrapper">
+                                <img
+                                    loading="lazy"
                                     src="/img/the-clinic-1.png"
                                     alt=""
                                     class="grid-image"
