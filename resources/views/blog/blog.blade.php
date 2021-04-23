@@ -1,5 +1,5 @@
 @extends('partials.master')
-@section('title', 'About')
+@section('title', 'Blog')
 @section('page', '5fa686c7b73fbb4dd28a52dd')
 
 @section('content')
