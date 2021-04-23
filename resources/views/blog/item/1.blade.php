@@ -80,6 +80,21 @@
     </div>
 </section>
 
+<!-- Social share  -->
+<section>
+    <div class="container">
+        <div class="d-flex">
+            <div class="text-align-center share-link">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-tumblr"></i></a>
+                <a href="#"><i class="fab fa-pinterest"></i></a>
+                <a href="#"><i class="fas fa-heart"></i></a>
+            </div>
+        </div>
+    </div>
+</section>
+
 
     
     {{-- instagram --}}

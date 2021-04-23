@@ -14,3 +14,17 @@
 .blog-items .blog-subtitle{
     margin: 2em 2em;
 }
+
+.share-link a i{
+    margin: 0 .5em 0 .5em;
+    color: #dfdad7;
+}
+
+@media (max-width: 500px){
+    .blog-items{
+        padding: 8em 1em 4em 1em;
+    }
+    .blog-items .blog-subtitle{
+        margin: 1em 1em;
+    }
+}

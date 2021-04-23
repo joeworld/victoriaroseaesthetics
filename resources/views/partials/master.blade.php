@@ -44,6 +44,9 @@
         ></script>
         <script src="/js/app.js" type="text/javascript"></script>
         <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
+            <!-- font awesome -->
+        <script src="https://kit.fontawesome.com/073dd2066c.js"></script>
+
     </body>
 </html>
 
