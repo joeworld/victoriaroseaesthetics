@@ -172,3 +172,9 @@ Route::get('/blog/1', function () {
 Route::get('/blog/2', function () {
     return view('blog/item/2');
 });
+Route::get('/blog/3', function () {
+    return view('blog/item/3');
+});
+Route::get('/blog/4', function(){
+    return view('blog/item/4');
+});
