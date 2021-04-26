@@ -4,6 +4,7 @@
         @include('partials.meta')
         <title>@yield('title') - Victoria Rose Aesthetics</title>
         <link href="/css/app.css" rel="stylesheet" type="text/css" />
+        <link href="/css/blog.css" rel="stylesheet" type="text/css" />
         <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,regular,500" media="all" />
         <script type="text/javascript">
@@ -43,6 +44,9 @@
         ></script>
         <script src="/js/app.js" type="text/javascript"></script>
         <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
+            <!-- font awesome -->
+        <script src="https://kit.fontawesome.com/073dd2066c.js"></script>
+
     </body>
 </html>
 

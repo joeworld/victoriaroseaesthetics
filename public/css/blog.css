@@ -1,0 +1,47 @@
+.blog-items{
+    padding: 8em 3.5em 4em 3.5em;
+}
+
+.blog-items p{
+    margin-bottom: 1em;
+}
+
+.blog-items .blog-title{
+    text-align: center;
+    margin: 3em 0;
+}
+
+.blog-items h6{
+    margin-bottom: .5em;
+}
+
+.blog-items .blog-subtitle{
+    margin: 2em 2em;
+}
+
+.blog-subtitle .small-underline{
+    margin-bottom: 0px;
+    color: #c3b0a9;
+    font-size: 1.1em;
+    line-height: 1.4;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.share-link a i{
+    margin: 0 .5em 0 .5em;
+    color: #dfdad7;
+}
+
+ol li{
+    background-image: none;
+}
+
+@media (max-width: 500px){
+    .blog-items{
+        padding: 8em 1em 4em 1em;
+    }
+    .blog-items .blog-subtitle{
+        margin: 1em 1em;
+    }
+}

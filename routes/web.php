@@ -162,3 +162,28 @@ Route::get('/products/teoxane-cosmeceuticals', function () {
 });
 
 
+//blog
+Route::get('/blog', function () {
+    return view('blog/blog');
+});
+Route::get('/blog/1', function () {
+    return view('blog/item/1');
+});
+Route::get('/blog/2', function () {
+    return view('blog/item/2');
+});
+Route::get('/blog/3', function () {
+    return view('blog/item/3');
+});
+Route::get('/blog/4', function(){
+    return view('blog/item/4');
+});
+Route::get('/blog/5', function(){
+    return view('blog/item/5');
+});
+Route::get('/blog/6', function(){
+    return view('blog/item/6');
+});
+Route::get('/blog/7', function(){
+    return view('blog/item/7');
+});
