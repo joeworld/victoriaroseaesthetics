@@ -28,6 +28,10 @@
     text-decoration: underline;
 }
 
+.share-link{
+    margin-top: 5em !important;
+}
+
 .share-link a i{
     margin: 0 .5em 0 .5em;
     color: #dfdad7;
@@ -35,6 +39,20 @@
 
 ol li{
     background-image: none;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+
+
+.other-content a{
+    text-decoration: none;
 }
 
 @media (max-width: 500px){
