@@ -92,6 +92,13 @@
     </div>
 </section>
 
+<div class="container">
+    <div class="d-flex other-content">
+        <a href="/blog/1" class="float-left">PREVIOUS</a>
+        <a href="/blog/3" class="float-right">NEXT</a>
+    </div3
+</div>
+
 <!-- Social share  -->
 <section>
     <div class="container">
