@@ -40,7 +40,7 @@
         </p>
 
         <div class="blog-subtitle">
-            <h4 class="handwritten">
+            <h4 class="small-all-caps">
                 Tighter Skin
             </h4>
             <p>
@@ -51,7 +51,7 @@
         </div>
         
         <div class="blog-subtitle">
-            <h4 class="handwritten">
+            <h4 class="small-all-caps">
                 Better Skin Texture
             </h4>
             <p>
@@ -64,7 +64,7 @@
         </div>
         
         <div class="blog-subtitle">
-            <h4 class="handwritten">
+            <h4 class="small-all-caps">
                 Healing is Accelerate
             </h4>
             <p>
@@ -77,7 +77,7 @@
         </div>
 
         <div class="blog-subtitle">
-            <h4 class="handwritten">
+            <h4 class="small-all-caps">
                 Enhance your Skin Care Regime
             </h4>
             <p>
