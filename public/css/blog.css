@@ -11,6 +11,10 @@
     margin: 3em 0;
 }
 
+.blog-items h6{
+    margin-bottom: .5em;
+}
+
 .blog-items .blog-subtitle{
     margin: 2em 2em;
 }
