@@ -33,6 +33,10 @@
     color: #dfdad7;
 }
 
+ol li{
+    background-image: none;
+}
+
 @media (max-width: 500px){
     .blog-items{
         padding: 8em 1em 4em 1em;
