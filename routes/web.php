@@ -184,3 +184,6 @@ Route::get('/blog/5', function(){
 Route::get('/blog/6', function(){
     return view('blog/item/6');
 });
+Route::get('/blog/7', function(){
+    return view('blog/item/7');
+});
