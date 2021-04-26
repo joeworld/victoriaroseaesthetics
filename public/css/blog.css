@@ -19,6 +19,15 @@
     margin: 2em 2em;
 }
 
+.blog-subtitle .small-underline{
+    margin-bottom: 0px;
+    color: #c3b0a9;
+    font-size: 1.1em;
+    line-height: 1.4;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
 .share-link a i{
     margin: 0 .5em 0 .5em;
     color: #dfdad7;

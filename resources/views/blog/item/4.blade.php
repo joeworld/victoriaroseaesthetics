@@ -93,23 +93,23 @@
                 week of the wedding or event.Remember, you want to have everyone notice you but not see what you did! 
                 Here are some popular options and the timeline you need to consider when preparing for your big day.
             </p>
-            <ul class="blog-ul">
-                <li class="blog-li">
+            <ul>
+                <li>
                     An initial consultation should be ideally a minimum of 4 months in advance of your big day so planning, 
                     dreaming and scheduling of appointments is doable.
                 </li>
-                <li class="blog-li">
+                <li>
                     Skin Care should be started 3-4 months in advance using a medical-grade product line with clear 
                     morning and evening routines.
                 </li>
-                <li class="blog-li">
+                <li>
                     Chemical peels and Micro needling should be started 3-4 months in advance of your event if you want to 
                     complete a 3-4 series. 
                 </li>
-                <li class="blog-li">
+                <li>
                     Botox and other anti-wrinkle injections should be done a minimum of 1month in advance.
                 </li>
-                <li class="blog-li">
+                <li>
                     Fillers should be done a minimum of 2 months in advance. 
                 </li>
             </ul>
