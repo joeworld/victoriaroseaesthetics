@@ -187,3 +187,24 @@ Route::get('/blog/6', function(){
 Route::get('/blog/7', function(){
     return view('blog/item/7');
 });
+Route::get('/blog/8', function(){
+    return view('blog/item/8');
+});
+Route::get('/blog/9', function(){
+    return view('blog/item/9');
+});
+Route::get('/blog/10', function(){
+    return view('blog/item/10');
+});
+Route::get('/blog/11', function(){
+    return view('blog/item/11');
+});
+Route::get('/blog/12', function(){
+    return view('blog/item/12');
+});
+Route::get('/blog/13', function(){
+    return view('blog/item/13');
+});
+Route::get('/blog/14', function(){
+    return view('blog/item/14');
+});
